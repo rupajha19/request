@@ -1,0 +1,143 @@
+{
+    "course": {
+        "id": "66",
+        "name": "Technical Readings - 101",
+        "logo": "https://bit.ly/2PzSPkJ",
+        "notes": null,
+        "days_to_complete": "30",
+        "short_description": "Iss Course ko aap use kar kar English mei important Technology Concepts padh kar samajh sakte hai",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4581",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "how-to-use",
+                "slug": "technical-readings-101__how-to-use_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/how-to-use.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "How to Use\n\nIs course me kuch aise topics hain jinhe discuss karke aap English conversation and Tech Conversation ki practice kar sakte hain. Ye topics technology se related hain and isme use ki gai vocabulary kafi common hai agar aapko Software Engineering mei kuch karna hai.\n\n\n\nYe aapki English ki fluency improve karne me bhi helpful rahega. Agar inme se koi topic ke baare mein aapke paas enough information nahi hai, toh pehle hi thoda extra time lekar thoda padh lein aur fir conversation karein.\n\n\n\nSome important tips to help you learn better:\n\n- Maintain a diary with all the new words that you learn\n\n- Revise your vocabulary diary everyday\n\n- Share your vocabulary lists with your friends and revise together\n\n- Koi bhi topic padhne ke baad aap apni understanding ko ek comment ke through English mei uss topic ke neeche \u201ccomment box\u201d mei daalein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4582",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "artificial-intelligence",
+                "slug": "technical-readings-101__artificial-intelligence_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/artificial-intelligence.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Artificial Intelligence\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4579",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "machine-learning",
+                "slug": "technical-readings-101__machine-learning_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/machine-learning.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Machine Learning\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4580",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "cryptography",
+                "slug": "technical-readings-101__cryptography_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/cryptography.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Cryptography\n\n*Cryptography* or *cryptology*, is the practice and study of hiding information. It is sometimes called `code`, but this is not really a correct name. It is the science used to try to keep information secret and safe. Modern cryptography is a mix of mathematics, computer science, and electrical engineering. Cryptography is used in ATM (bank) cards, computer passwords, and shopping on the internet.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4584",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "blockchain",
+                "slug": "technical-readings-101__blockchain_md",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/blockchain.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Blockchain\n\nBlockchain is an universal digital ledger in which transactions made in bitcoin\nor another cryptocurrency are recorded serially and publicly.\n\nLedger\n\nLedger is a book of records which maintain financial transactions.\n\nBitcoins\n\nBitcoin is a digital and global money system currency. It allows people to send or\nreceive money across the internet, even to someone they don't know or don't trust. \nMoney can be exchanged without being linked to a real identity.\n\nCryptocurrency\n\nCryptocurrency is a form of digital currency based on mathematics, where encryption\ntechniques are used to regulate the generation of units of currency and verify the\ntransfer of funds. Farthermore, cryptocurrencies operate independently of a central bank.\n\nImportant points:\n\n1. A Blockchain is a type of double entry book keeping containing information about transactions.\n\n2. Each transaction generates a hash.\n\n3. A hash is a `string` of numbers and letters.\n\n4. Transactions are entered in the order in which they occurred. Order is very important.\n\n5. The hash depends not only on the transaction but the previous transaction's hash.\nEven a small change in a transaction creates a completely new hash.\n\n6. The nodes check to make sure a transaction has not been changed by inspecting the hash.\n\n If a transaction is approved by a majority of the nodes than it is written into a block.\n\n\n7. Each block refers to the previous block and together make the Blockchain.\n\n8. A Blockchain is effective as it is spread over many computers, each of which have a copy of the Blockchain.\n\n9.  These computers are called nodes.\n\n10. The Blockchain updates itself every 10 minutes.\n\n\n\n\nRead about this topic from here.\n\n* In simple English : [Link](https://simple.wikipedia.org/wiki/Blockchain)\n* In medium English : [Link](https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners#hash-function)\n* In advanced English : [Link](https://medium.com/@yannmjl/what-is-blockchain-in-simple-english-25e684c1cea3)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4585",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "internet-of-things",
+                "slug": "technical-readings-101__internet-of-things_md",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/internet-of-things.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Internet of Things\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4583",
+                "parent_exercise_id": null,
+                "course_id": "66",
+                "name": "virtual-reality",
+                "slug": "technical-readings-101__virtual-reality_md",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/technical-readings-101/virtual-reality.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Virtual Reality\n\nVirtual reality (often just called VR) is the name for computer technology that makes a person feel like they are somewhere else. It uses software to produce images, sounds and other sensations to create a different place, so that a user feels like he or she is really a part of this other place. That other place can be a real place (to take a tour in another country, for instance) or imaginary (playing a game).\nMost current virtual reality environments are primarily visual experiences, displayed either on a computer screen or through special stereoscopic displays, but some simulations include additional sensory information, such as sound through speakers or headphones.\nThe simplest form of virtual reality is a 3-D image that can be explored interactively at a personal computer, usually by manipulating `keys` or the mouse so that the content of the image moves in some direction or zooms in or out. More sophisticated efforts involve such approaches as wrap-around display screens, actual rooms augmented with wearable computers, and haptics devices that let you feel the display images.\n\n\n\nVirtual reality can be divided into:\n\nThe simulation of a real environment for training and education.\nThe development of an imagined environment for a game or interactive story.\n\n\n\nExplore more about Virtual Reality by reading these articles.\n\n* In simple English : [Choose me](https://kids.kiddle.co/Virtual_reality)\n* In medium English : [Click me](https://en.wikipedia.org/wiki/Virtual_reality)\n* In advance English : [Click here](https://www.wired.com/story/wired-guide-to-virtual-reality/)\n\nTips\n\nIf you don't understand any word please google it.\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}

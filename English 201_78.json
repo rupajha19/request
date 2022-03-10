@@ -1,0 +1,243 @@
+{
+    "course": {
+        "id": "78",
+        "name": "English 201",
+        "logo": "https://bit.ly/2PAmJoV",
+        "notes": null,
+        "days_to_complete": "45",
+        "short_description": "English basics",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4032",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "Contents",
+                "slug": "english-201__Contents_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Contents.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Conjunctions\n\n2. Adjectives\n\n3. Prepositions\n\n4. Word Order\n\n5. Samvaad\n\n6. Vocabulary\n\n7. Talk_About_Daily_Routine\n\n\n\nIs course ko use karne ke liye instructions neeche diye gae hain:\n\n\n\n1. Counjunctions: One of the important grammar topics. Learn by watching video(s) or reading text. Complete the assignments and exercises. Mentors to check understanding of mentees.\n\n\n2. Adjectives : Same as above\n\n\n3. Prepositions: Same as above\n\n\n4. Word Order : Same as above\n\n\n5. Samvaad : Have conversation about **any two** of the given topics with a partner. Mentors to check if the mentee can speak about the given topic with some confidence and content.\n\n\n6. Vocabulary : Learn the words given here. Mentors to see if mentees know some of the words.\n\n\n7. Talk_About_Daily_Routine : Watch the videos(s) and complete the assignment(s). By the end of this, one should be able to talk about daily routine with some confidence.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4033",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "submission_type: url",
+                "slug": "english-201__Conjunctions_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Conjunctions.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Conjunctions are connectors. They join words of the same category, phrases, clauses or\nsentences. \n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "JJ4n0jr8qX8"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "taPqomJKIYE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "EXAMPLE: \n\n* Red __and__ green are the colours in traffic signals.\n\n* Pay your fee on time **or** you will have to give a fine.\n\n* We must take the umbrella __because__ it may rain today.\n\n\n\n\nEXERCISE: \nIdentify the conjunctions in the following sentences:\n\n1. The children are playing but their parents want them to study now.\n\n2. The lights should be switched on as it is getting dark.\n\n3. Although we heard the news, we could not believe it.\n\n4. Please tell me how this problem can be solved.\n\n5. The manager called a meeting when there was a financial crisis.\n\n6. The office has both a computer and a photocopier.\n\n7. There is a canteen here but it does not sell vegetarian food.\n\n8. You can either use the classroom or the seminar room for your presentation.\n\n9. My brother is neither here nor at home.\n\n10. The boss will give you leave if you tell him it is an emergency.\n\n\n\n\nFollowing are some the of the conjunctions:\n\n* and (aur)\n\n* but (lekin)\n\n* still (fir bhi)\n\n* yet (abhi tak)\n\n* while (jabki)\n\n* since (jab se)\n\n* unless (jab tak)\n\n* because (kyunki, isliye)\n\n* or (ya)\n\n* though (halanki)\n\n\n\n\nExercise:\nMake two sentences using each of the above conjunctions.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4037",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "submission_type: url",
+                "slug": "english-201__Adjectives_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Adjectives.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "An adjective is a word that describes, identifies, modifies, or quantifies something (a noun or a\npronoun).\n\n\n\nKisi bhi 'noun' ko jo word describe karta hai, use \"adjective\" kehte hain.\n\n\n\nExample: \n\n\n\nThe **black** cat is climbing the **tall** tree.\n\n\n\nIn English, an adjective usually comes before the noun it pertains to\n\n\n\nExample: a **red** apple or a **beautiful** dress\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "-D4bdGDFgeE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Exercise: Pick out the Adjectives in the following and say which noun/pronoun they are describing:\n\n\n\n1. Have you heard the happy news?\n\n2. This is a heavy bag.\n\n3. He found a rare coin in his garden.\n\n4. This restaurant has some delicious dishes.\n\n5. She has to complete these important papers today.\n\n\n\nAdjectives of quality say something about the trait of the noun while adjectives of quantity give the amount or number of the noun.\n\n\n\nEXAMPLE: \n\n* They have a big house. (Adj of quality)\n\n* We saw a very exciting film last night. (Adj of quality)\n\n* The student needs four books. (Adj of quantity)\n\n* There is a little oil in the can. (Adj of quantity)\n\n\n\n\nEXERCISE: \n\n\n\nIdentify the adjectives in the following and say whether they describe quality or\nquantity:\n\n1. Few students are absent all the time.\n\n2. He needs several people in his team.\n\n3. This is a useful piece of information.\n\n4. I spent the night in a comfor`tab`le hotel.\n\n5. Every citizen should be patriotic.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4031",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "submission_type",
+                "slug": "english-201__Prepositions_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Prepositions.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Preposition: is a word which joins a noun or pronoun to a sentence or another word to show relationship. (Pre=before; position=place)\n\n\n\nExample:\n\n\n\n* There is no water **in** the well. (relationship with \u2018there is no water\u2019 and \u2018well\u2019)\n\n* He will leave **by** tomorrow\u2019s train. (relationship of \u2018leave\u2019 [verb] with \u2018train\u2019 [noun])\n\n* We are proud **of** you. (relationship of \u2018proud\u2019 [adjective] with \u2018you\u2019 [pronoun])\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "FdBDtbNcd-8"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XYBnvCphgtw"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "R2YrX4-pSR8"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-201/assets/prepositions.png",
+                            "text": "Prepositions"
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-201/assets/prepositions2.png",
+                            "text": "Prepositions 2"
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Exercise:\n\n1. Rekha was born __________ 1999.\n\n2. She grew up ________ Orissa.\n\n3. She went _________ America when she was older.\n\n4. She wrote five collections ________ poetry.\n\n5. MeToo movement is related _______ sexual harrasment.\n\n6. Many students go ________ higher studies ______ other cities.\n\n7. Like many youngsters, he is not comfor`tab`le _____ English. \n\n\n\nExercise 2: \n\n\n\nMake sentences using the following prepositions.\n\n\n\non, at, in, before, after, for, since, under, with, behind\n\n\n\nExercise 3: \n\n\n\nCorrect the following:\n\n\n\n1. Beside winning independence, the people also got a new identity.\n\n2. This land is situated among the desert and the grassland.\n\n3. The treasure was kept into a hiding place.\n\n4. Arun cut his hand by a knife.\n\n5. The student did not come to class since many days.\n\n6. This is a comfor`tab`le house to live.\n\n7. The workers asked a holiday\n\n8. We pray God everyday.\n\n9. My house is superior than yours.\n\n10. This question is different to the earlier one.\n\n11. You can call him with his first name.\n\n12. The `application` should be filled with ink.\n\n13. The elders need to discuss about the matter.\n\n14. The guest was given a chair to sit.\n\n15. We are searching a book in the library.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4030",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "submission_type: url",
+                "slug": "english-201__Word_Order_md",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Word_Order.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Word order refers to the way words are arranged in a sentence. The standard word order in English is: \n\n\n\n`Subject + Verb + Object.` \n\n\n\nTo determine the proper sequence of words, you need to understand what the subject, verb and object(s) are.\n\n\n\n```\n* Subject: typically a noun or pronoun\u2014the person, place or thing\n* Verb: the action or state of being\n* Object: the word or group of words influenced by the verb\n```\nThe sequence of words is critical when communicating in English because it can impact the meaning of what you\u2019re trying to say. The sentence, \u201cThe chicken crossed the road\u201d and \u201cThe road crossed the chicken\u201d take on two different meanings because the subject and object are inverted. The same would be `true` if the verb was used out of order, for example: \u201cCrossed the road the chicken.\u201d\n\n\n\nHere\u2019s one for you to try. Choose the correct word order for the group of words below:\n\n\n\n\n1. Dropped the ball the boy\n\n2. The boy dropped the ball.\n\n3. The ball dropped the boy.\n\n\n\nIf you chose option B, you would be correct. \n\n\n\n---\n\nExercises:\n\nA. Identify the subject, verb and object in the following sentences.\n\n\n  \n1. The boy drank the water.\n\n2. Seema rides her bike.\n\n3. The water is flowing.\n\n4. I cleaned my room.\n\n5. The train is parked on the the station.\n\n6. She ate an apple.\n\n7. They brought their laptops to school.\n\n8. He broke his watch.\n\n9. The flower is yellow.\n\n10. We watched a movie yesterday.\n\n\n\n\n\nB. Correct the word order of the following sentences. Discuss in pairs.\n\n\n\n1. She always to school goes .\n\n2. is playing in the garden The cat .\n\n3. him We met have before. \n\n4. is never He late. \n\n5. ran the room of quickly The boy out .\n\n6. to flying are on They Rome Tuesday. \n\n7. the film weekend watched We last.\n\n8.  speaks English Rita fluently. \n\n9.  We like badminton to play.\n\n10. interviews the mentors have completed.\n\n\n\nPractice:\n[Exercise 1\n](https://www.englisch-hilfen.de/en/exercises/word_order/sentences.htm)\n\n[Exercise 2\n](https://www.englisch-hilfen.de/en/exercises/word_order/sentences3.htm)\n\n[Exercise 3\n](https://www.englisch-hilfen.de/en/exercises/word_order/sentences4.htm)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4035",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "Samvaad",
+                "slug": "english-201__Samvaad_md",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Samvaad.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Have conversation on the following two topics.\n\n\n\n\nHometown\n\n* Where is your hometown?\n\n* What is it known for? What do people do there?\n\n* How is the atmosphere there?\n\n* How are the people there?\n\n* Is it easy to find a job there?\n\n* Would you like to live in your hometown or somewhere else?\n\n\n\n\n\n---\n* Rural - \u0917\u094d\u0930\u093e\u092e\u0940\u0923\n\n* Warmth - \u0917\u0930\u094d\u092e\u0940\n\n* Trouble - \u092e\u0941\u0938\u0940\u092c\u0924\n\n* Cultivating - \u0916\u0947\u0924\u0940\n\n* Spread - \u092b\u0948\u0932\u093e\u0928\u093e\n\n* Pesticides - \u0915\u0940\u091f\u0928\u093e\u0936\u0915\n\n* Roam - \u0907\u0927\u0930-\u0909\u0927\u0930 \u092d\u091f\u0915\u0928\u093e\n\n\n----\nFamily\n\n* Who all are there in your family?\n\n* Who are the closest people to you in your family?\n\n* Where does your family live?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "R49zGknt7EE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "2S9Q_hrpS3I"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "---\n\nFestival\n\n* Which are the popular festivals celebrated in your state?\n\n* What preparations are done for the festival?\n\n* What do people do in the festival?\n\n* What is special about the festival?\n\n\n\n(You can talk about multiple festivals too.)\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "hDPt6koZ9ks"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vv2jgdeRFCE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ds9DWTBKg0c"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Vocabulary\n\n* Victory - \u0935\u093f\u091c\u092f\n\n* Disappoint - \u0928\u093f\u0930\u093e\u0936\n\n* Bounties - \u0907\u0928\u093e\u092e\n\n* Bestowing - \u0915\u0928\u094d\u092f\u093e\u0926\u093e\u0928\n\n* Dedicate- \u0938\u092e\u0930\u094d\u092a\u093f\u0924 \u0915\u0930\u0928\u093e\n\n* Evil \u2013 \u092c\u0941\u0930\u093e\u0908\n\n* Numerous \u2013  \u092c\u0939\u0941\u0924\n\n* Enormous - \u0935\u093f\u0936\u093e\u0932 \n\n* Decoratin -\u0938\u091c\u093e\u0935\u091f\n\n* Religious Spirits - \u0927\u093e\u0930\u094d\u092e\u093f\u0915 \u0906\u0938\u094d\u0925\u093e\n\n* Celebration - \u0909\u0924\u094d\u0938\u0935\n\n* Happiness - \u0916\u093c\u0941\u0936\u0940\n\n* Burst -\u092b\u094b\u0921\u093c\u0928\u0947\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4036",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "Vocabulary",
+                "slug": "english-201__Vocabulary_md",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Vocabulary.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Words are coming!\n\n\n\n- over\n\n- new\n\n- sound\n\n- take\n\n- only\n\n- little\n\n- work\n\n- know\n\n- place\n\n- years\n\n- live\n\n- me\n\n- back\n\n- give\n\n- most\n\n- very\n\n- after\n\n- things\n\n- our\n\n- just\n\n- name\n\n- good\n\n- sentence\n\n- man\n\n- think\n\n- say\n\n- great\n\n- where\n\n- help\n\n- through\n\n- much\n\n- before\n\n- line\n\n- right\n\n- too\n\n- means\n\n- old\n\n- any\n\n- same\n\n- tell\n\n- boy\n\n- follow\n\n- came\n\n- want\n\n- show\n\n- also\n\n- around\n\n- form\n\n- three\n\n- small\n\n- set\n\n- put\n\n- end\n\n- does\n\n- another\n\n- well\n\n- large\n\n- must\n\n- big\n\n- even\n\n- such\n\n- because\n\n- turn\n\n- here\n\n- why\n\n- ask\n\n- went\n\n- men\n\n- read\n\n- need\n\n- land\n\n- different\n\n- home\n\n- us\n\n- move\n\n- try\n\n- kind\n\n- hand\n\n- picture\n\n- again\n\n- change\n\n- off\n\n- play\n\n- spell\n\n- air\n\n- away\n\n- animal\n\n- house\n\n- point\n\n- page\n\n- letter\n\n- mother\n\n- answer\n\n- found\n\n- study\n\n- still\n\n- learn\n\n- should\n\n- America\n\n- world\n\n\n\nYou can learn these words using Tinycards.\n\n\n\n[Deck One\n](https://tiny.cards/decks/KLF2ZwHk/fry-list-three)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4034",
+                "parent_exercise_id": null,
+                "course_id": "78",
+                "name": "Talk_About_Daily_Routine",
+                "slug": "english-201__Talk_About_Daily_Routine_md",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-201/Talk_About_Daily_Routine.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "youtube",
+                        "value": "cTKAk2eVHjw"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Discuss with a partner:\n\n\n\nWhat is your day like? What activities do you do daily?\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,703 @@
+{
+    "course": {
+        "id": "166",
+        "name": "Operators",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "In this topic, we will learn about Operators.",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en",
+            "hi"
+        ],
+        "exercises": [
+            {
+                "id": "5690",
+                "parent_exercise_id": "5690",
+                "course_id": "166",
+                "name": "Operators",
+                "slug": "Operators__Operators/intro_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Operators/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "What are `Operators`?\n\nWe use `operators` to perform some operation (calculation or change in the value of) between `variables`. Just like '+' in maths is an addition `operator`, similarly there are `operators` in `Python`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=6\nb=5\nprint(a+b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`11`\n\n\n\nIn the above example, we have added the values of the `variables` `a` and `b` with the help of `+` that is `addition operator`.\nHere, a and b are the operands while `+` is the `operator`, so the `variables` that are used with an `operator` are called `operands`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5692",
+                "parent_exercise_id": "5692",
+                "course_id": "166",
+                "name": "Types",
+                "slug": "Operators__Types/intro_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Types/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "TYPE OF `OPERATORS`\n\n1. `Arithmetic  `Operator``\n\n\n2. `Assignment `Operators``\n\n\n3. `Comparison `Operators``\n\n\n4. `Logical `Operators``\n\n\n5. `Identity `Operators``(will learn later)\n\n\n6. `Membership `Operators``(will learn later)\n\n\n7. `Bitwise `Operators``(will learn later)\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5696",
+                "parent_exercise_id": "5692",
+                "course_id": "166",
+                "name": "Arithmetic  Operators",
+                "slug": "Operators__Types/Arithmetic_md",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Types/Arithmetic.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "ARITHMETIC `OPERATORS`\n\nWe use `arithmetic operators` just like we do in mathematics, to perform common calculations with numeric values (numbers).\n\n\n\n|OPERATORS|NAME|EXAMPLE|\n|-----------|-----------|-----------|\n|`+`|`Addition`|`2 + 5`|\n|`-`|`Subtraction`|`2 - 5`|\n|`*`|`Multiply`|`2 * 5`|\n|`/`|`Division`|`2 / 5`|\n|`%`|`Modulus`|`2 % 5`|\n|`**`|`Exponents`|`2 ** 5`|\n|`//`|`Floor Division`|`2 // 5`|\n\n`Addition(+) :-`\n\n  The `addition operator (+)` is used to add or calculate the sum of values. \n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=25\ny=10\nprint(x+y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n35\n\n\n\n\n`Subtraction(-):-`\n\n The `subtraction operator (-)` is used to subtract or calculate the difference in values.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var1=5\nvar2=3\nprint(var1-var2)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n2\n\n\n\n\n`Multiply(*) :-`\n\n The `multiplication operator (*)` is used to multiply or calculate the product of values.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=2\nb=3\nprint(a*b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n6\n\n\n\n`Division(/):-`\n\n The `division operator (/)` is used to divide or calculate the quotient of division of values.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\ny=2\nprint(x/y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n2.5\n\n\n\n`Modulus(%) :-`\n\nThe `modulus operator (%)` is used to find the remainder of division of one value by another. It gives you only the remainder and not the quotient of division.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num=5\nnum1=2\nprint(num%num1)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n1\n\n\n\n`Exponents(**) :-`\n\n The `exponent/exponentiation operator (**)` is used to raise one number to the power of the value of the second number such that 2 raised to the power of 3 which is 8 will be written as `2**3`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=2\ny=5\nprint(x**y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n32\n\n\n\n\n`Floor Division(//) :-`\n\n The `floor division operator (//)` is used to calculate the largest `integer` quotient of a division. This means that it will only give you the quotient of division until the number can be divided. It follows the rule:-\n`Dividend = Quotient x Divisor + Remainder`. So, in floor division the answer for `3//2 is 1` and `5//8 is 0`. It does not go into decimal and only gives you the highest quotient. You can think of it like division when you first learned it, you did not know how to divide with decimals so you only calculated the answer until the number could be divided.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=15\nb=2\nprint(a//b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n7\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5697",
+                "parent_exercise_id": "5692",
+                "course_id": "166",
+                "name": "Assignment Operators",
+                "slug": "Operators__Types/Assignment_md",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Types/Assignment.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`ASSIGNMENT OPERATORS`\n\n`Assignment operators` are used to assign values to `variables`. They ultimately give the value on the right of the `operator` to the `variable` on the left.\n\n\n\n|OPERATOR|NAME|EXAMPLE|\n|-----------|-----------|-----------|\n|`=`|`Assignment`|`x=5`|\n|`+=`|`Add And`|`x+=5 or x=x+5`|\n|`-=`|`Subtract And`|`x-=5 or x=x-5`|\n|`*=`|`Multiply And`|`x*=5 or x=x*5`|\n|`/=`|`Division And`|`x/=5 or x=x/5`|\n|`//=`|`Floor Division And `|`x//=5 or x=x//5`|\n|`%=`|`Modulus And`|`x%=5 or x=x%5`|\n|`**=`|`Exponent And`|`x**=5 or x=x**5`|\n\n`Assignment Operator(=) :-`\n\nThe `asignment operator(=)` assigns values to the left hand operand from the right side operand. (This `operator` gives the value of the operand on the right to the operand on the left).\n(Operands are values that any `operator` works/operates on).\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n5\n\n\n\n`Add AND Operator(+=) :-`\n\n   \n`Add AND Operator (+=)` adds the value of right operand to the value of left hand operand and then gives the sum (result of addition) to the left operand. Here, `a+=b is the same as a=a+b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\ny=10\nx+=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n15\n\n\n\n\n`Subtract AND Operator(-=) :-`\n\n   \n`Subtract AND Operator (-=)` subtracts the value of the right operand from the left side operand and gives the result to the left operand. Here, `a-=b is the same as a=a-b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=10\ny=5\nx-=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n5\n\n\n\n\n`Multiply AND Operator(*=) :-`\n\n`Multiply AND Operator (*=)` multiplies the left hand operand with the right hand operand and returns the value as `output`, that is gives the result to the left hand operand. Here, `a*=b is the same as a=a*b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\ny=10\nx*=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n50\n\n\n\n`Division AND Operator(/=) :-`\n\n   \n`Divide AND Operator (/=)` divides the left hand operand with the right hand operand value and gives the result, that is gives the value to the left hand side operand.Here, `a/=b is the same as a=a/b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=50\ny=10\nx/=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n5\n\n\n\n`Modulus AND Operator(%=) :-`\n\n`Modulus AND Operator (%=)` divides the value of left hand operand with the right hand one and the reminder of this division becomes the new value of the left hand side operand, that is it is given to the left hand side `operator`. Here, `a%=b is the same as a=a%b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=25\ny=10\nx/=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n5\n\n\n\n`Exponent AND Operator(**=) :-`\n\n`Exponent Operator` gives us the exponentiated value of the left hand operand when raised to the power of the value found on the right hand side. This value is then given to the left hand side operand. Here, `a**=b is the same as a=a**b`.\n\n\n \nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\ny=2\nx**=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n25\n\n\n\n`Floor Division AND(//=) :-`\n\n`Floor division AND(//=)` divides the value found in the left hand side with the value of the right hand side operand. The `integer` value becomes the left hand operand value. This means that the `integer` part of the quotient of division is given to the left hand side operand and it it contains the decimal part, it is ignored. Here, `a//=b is the same as a=a//b`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=5\ny=2\nx//=y\nprint(x)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n2\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5698",
+                "parent_exercise_id": "5692",
+                "course_id": "166",
+                "name": "Comparison Operators",
+                "slug": "Operators__Types/Comparison_md",
+                "sequence_num": 103,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Types/Comparison.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "COMPARISON `OPERATORS`\n\nWe use `comparison operators` to compare two values. Their answer or result is always of the `Boolean Data Type`.\n\n\n\n\n|OPERATORS|NAME|EXAMPLE|\n|-----------|-----------|-----------|\n|`==`|`Equal`|`10 == 10`|\n|`!=`|`Not Equal`|`10 != 13`|\n|`>`|`Greater than`|`2 > 5`|\n|`<`|`Less than`|`2 < 5`|\n|`>=`|`Greater than or  equal to`|`2 >= 5`|\n|`<=`|`Less than or equal to`|`2 <= 5`|\n\n`Equal(==):-`\n\n To check whether two values are equal, the `==` `operator` is used. (Since we know `=` is used for assignment so for equality it is `==`)\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=5\nb=5\nprint(a==b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n`True`\n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=6\nb=9\nprint(a==b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n\n`Output` :-\n\n`False`\n\n\n\n`Not Equal (!=) :-`\n\n The `!=` `operator` is used to check if two values are unequal or not equal .\n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=10\ny=13\nprint(x!=y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\nThis means that x=10 and y=13 are not equal.\n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=32\nb=32\nprint(a!=b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`False`\n\n\n\nIn the above example, both the values are equal, meaning the answer to the question \"Are the 2 values unequal?\" is `false`.\n\n\n\n`Greater than (>) :-`\n\n It is the same as in mathematics, it checks whether the value on the left is greater than the value on the right. If yes, then the `output` is `true` otherwise `false`.\n\n\n\n\nExample  :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=6\nb=4\nprint(a>b) ",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n`True`\n\n\n\nThis means a=6 is greater than b=4 and so the `output` is seen to be `true`.\n\n\n\nExample  :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=7\ny=9\nprint(x>y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n`False`\n\n\n\nIn this example we are saying that the value of x is greater than y, which is wrong hence the `output` is `false`.\n\n\n\n\n`Less than (<) :-`\n\nIt is the same as in mathematics, it checks whether the value on the left is less than the value on the right. If yes then the `output` is `true` otherwise it is `false`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=6\ny=9\nprint(x<y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\nIn this example, x is smaller than y so the `output` is `true`.\n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=13\nb=10\nprint(a<b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`False`\n\n\n\nIn this example, a is greater than b so the `output` is `false`.\n\n\n\n\n`Greater than or  equal to (>=):-`\n\n It is the same as in mathematics, it checks whether the value on the left is greater than or equal to the value on the right. If yes then the `output` is `true` otherwise it is `false`.\n\n\n\nExample  :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=23\nb=15\nprint(a>=b) ",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\nHere, a is greater than b so the `output` is `true`.\n\n\n\nExample  :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=12\nb=35\nprint(a>=b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`False`\n\n\n\nHere since a is not greater than b and a is also not equal to b, the `output` is `false`.\n\n\n\n`Less than or equal to (<=) :-`\n\nIt is the same as in mathematics, it checks whether the value on the left is lesser than or equal to the value on the right. If yes then the `output` is `true` otherwise it is `false`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=6\ny=9\nprint(x<=y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\nIn the example above, x=6 is smaller than y=9 and thus, the `output` is `true`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x=8\ny=6\nprint(x<=y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`False`\n\n\n\nHere, x is neither less than y, nor equal to y, hence the `output` is `false`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5699",
+                "parent_exercise_id": "5692",
+                "course_id": "166",
+                "name": "Logical Operator",
+                "slug": "Operators__Types/Logical_md",
+                "sequence_num": 104,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Types/Logical.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "LOGICAL `OPERATOR` (and, or, not) :-\n\n`Logical operators` are used to combine conditional `statements`. They are used in any programming language to make decision based on multiple conditions in `python`, we use logical `operators` to determine whether a condition is `True` or `False` by taking operand values as base. Let's consider different logical `operators` that are used in `python` programming.\n\n\n\n(Logical `operators` help us to take decisions and make sure the required conditions are met to proceed.)\n\n\n\n\n`and :-`\n\nThis `operator` is used to check that both the conditions it operates on must be `true`. If `both the conditions are true`, it will `return true`, otherwise (even if 1 condition is `false` or both conditions are `false`), the `output` will be `False`. \n\n\n\nExample : I want apples and oranges to make a fruit salad. Here, only one of them will not complete my salad, I want both.\n\n\n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = True \nb = False \nprint(a and b and a)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\n`False`\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "number = int(input(\"enter the number\"))\nprint(number and 1)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Here, the number and 1 are both `true` so the answer is 1.\n\n\n\nIf the `input` is 0 then the `output` will be 0 because one condition is `false`.\n\n\n\n\n\n`or :-`\n\nThis `operator` is used to check that `one of the conditions it operates on must be true`. If `both the conditions are False`, it will return `False`, otherwise (if 1 condition is `false` or both conditions are `true`), the `output` will be `true`. \n\n\n\nExample: I want apples or oranges to make a fruit salad. Here, only one of them will be enough to complete my salad.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = 4 > 5\na = 899 < 887\nprint(a or a or 7 < 8) ",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": " \n`Output` :-\n\n`True`\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x = \"apple\"\ny = \"mango\"\nprint(x or y)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Output` :-\n\napple\n\n\n\n\n- The `and` and `or` `operators` will give an `output` of the value at the moment their answer is determined. \n\n- For Example, `1 and 2` gives the `output` as 2 because when checking if both conditions are correct, the `output` or answer of `and` can be determined when it has checked the second condition.\n\n- Similarly, for `0 and 2` the `output` is 0 as at the time of checking the first condition, the answer of the `and` `operator` is determined to be `false` since the first condition is `false`.**\n\n\n- For `or`, similar to `and`,  `1 or 2` will produce an `output` of 1 as even if the first condition is `true`, the `output` to the `or` is determined there. \n\n- `0 or \"\"` will give `(empty `String`)` as the `output` is not 0 because the `output` is determined at the second condition.\n\n\n\n\n`not :-`\n\n This `operator` is used to get the opposite of the condition. So it gives the opposite `output` of whatever is the `output` of the condition. \n\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = 19\nb = 34\nc = 56\nprint(not c > b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n\n`Output` :-\n\n`False`\n\n- c is actually greater than b so the condition c > b is `true` but adding `not` in front of it gives the opposite `output`, that is, `false`.\n\n#### Example :-\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var1 =True\nprint(not var1)\na =True\nb= False\nprint( a and b or a or not b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n\n`Output` :-\n\n`True`\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5693",
+                "parent_exercise_id": "5693",
+                "course_id": "166",
+                "name": "Debug  Code",
+                "slug": "Operators__Debug/intro_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Debug/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Debug Code`\n\nLet us `debug` a few examples.\n\n\n\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = \"Megha\"\nprint a",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nB. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "C. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"navgurukul\"\nb=13\nprint(a+b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nD.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"12\"\nb=13.1\nprint(a+b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nE.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5691",
+                "parent_exercise_id": "5691",
+                "course_id": "166",
+                "name": "Code Output",
+                "slug": "Operators__Output/intro_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Output/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Code` `Output`\n\nNow, we will do some questions related to `operators` which will give us a better understanding of `operators`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5694",
+                "parent_exercise_id": "5691",
+                "course_id": "166",
+                "name": "Question 1",
+                "slug": "Operators__Output/Question1_md",
+                "sequence_num": 301,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Output/Question1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 1\n\nTell the type of the data and `operators` used :-\n\n\n\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=5\na = a * \"5\"\nprint(type(a))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "B. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var1 = \"nav\"\nvar2 = \"gurukul\"\nprint(type(var1+var2))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "C.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num1=\"7\"\nnum2=\"number\"\nprint(type(num1+num2))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "D.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num=6.8\nnum1=5\nprint(type(num+num1))",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5695",
+                "parent_exercise_id": "5691",
+                "course_id": "166",
+                "name": "Question 2",
+                "slug": "Operators__Output/Question2_md",
+                "sequence_num": 302,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/Operators/Output/Question2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 2\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "print(bool(False))\nprint(bool(None))\nprint(bool(0))\nprint(bool(\"\"))\nprint(bool(1))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "B. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x = 20\ny = 5\nresult = x + True + y - False\nprint(result)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "C.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"\nprint(str3)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "D.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num=6.8\nprint(num)\nnum=12\nprint(num)\nprint(num + num)\nnum = num + 10\nprint(num)",
+                            "testCases": []
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

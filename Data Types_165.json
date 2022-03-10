@@ -1,0 +1,719 @@
+{
+    "course": {
+        "id": "165",
+        "name": "Data Types",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "In this topic we will learn about Data Types.",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en",
+            "hi"
+        ],
+        "exercises": [
+            {
+                "id": "5675",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Data Types",
+                "slug": "dataTypes__DataTypes/intro_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "What is a Data Type ?\n\nAs we read the English book, every word in it is English, means the *information is in English*. Whatever knowledge we are taking from the book is *data*, and the language is its *type*.\n\n\n\n\n`Data type` indicates the type of `information`.\n\n\n\nThe `Data type` represents a type of value that determines which operation can be performed per data. For example, `numeric`, `non-numeric` or `Boolean (true/false)` data are the most commonly used data types.\n\n\n\n\nData Type is a very important concept in `Programming`.\n\n\n\nWe can store different type of data type in a `variable`. Like `Numeric`, `Characters`. Every `programming` language has data types.\n\n\n\nBelow are some data types in `Python`\n\n```\nNumeric type - (Integer, Float, complex)\n\nText type - (String)\n\nBoolean type - (True, False)\n\nSequence type - (List, Tuple, Range)\n```\n"
+                    }
+                ]
+            },
+            {
+                "id": "5684",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Numeric Type",
+                "slug": "dataTypes__DataTypes/numeric_md",
+                "sequence_num": 1,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/numeric.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Numeric Type` :-\n\nWe store numbers in the numeric type. Like -`int, float, complex`.\n\n\n\n`Integer Data Type(int data type)`:-\n\n`Integer data type` has a simple numeric value which is either positive or negative whose length is unlimited.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = 14582\nprint(a)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n14582\n\n\n\nIn this example we have stored `integer` number `14582` in `variable` `a`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "b = -14326\nprint(b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n-14326\n\n\n\nIn this example, we have seen how we have taken a negative value in a `variable` named `b`, which is an `integer` data type.\n\n\n\n`Float Data Type`\n\n  \nThe `Float data type` has a decimal value, either negative or positive.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = 23.45\nprint(a)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n23.45\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "b = -34.25\nprint(b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n-34.25\n\n\n\nIn these examples, we have given both positive and negative values but in decimal.\n\n\n\n\n`Complex Data type`\n\n`Complex data types` have two parts, the `real part` and the `imaginary part`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = 3+5j\nprint(a)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`3+5j`\n\n\n\nIn this example, `3` is a `real part` and `5j` is an `imaginary part`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5685",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Questions on Numeric Data Types",
+                "slug": "dataTypes__DataTypes/numbericQ_md",
+                "sequence_num": 2,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/numbericQ.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 1\n\n1. Create a `variable` with name `number` and assign any `INTEGER` value to it.\n\n\n2. Print the `number`.\n\n\n3. Assign a `FLOAT` value to the `number` `variable`. \n\n\n4. Print the `number`.\n\n\n5. Assign a `Complex` value to the `number` `variable`. \n\n\n6. Print the `number`.\n\n\n\n\nQuestion 2\n\n1. Take 2 `inputs` from the user with data type `INTEGER`.   \n\n\n2. Store the sum of the 2 user `inputs` in a `variable` with name `SUM`.\n\n\n3. Print `SUM`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5686",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "String Data Type",
+                "slug": "dataTypes__DataTypes/String_md",
+                "sequence_num": 3,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/String.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`String Data Type`\n\n \nA `Python` `string` is a sequence of `characters or text`. It handles text data. Whatever we write inside of single or double quotes is a `string` in `python`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a= \"Hello python\"\nb=\"Hello world\"\nprint(a)\nprint(b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`Hello python`\n\n\n\n`Hello world`\n\n\n\nIn this example, we have taken two different `variables` in which the value is written inside `double (\" \") quotes or single (' ') quotes.`\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"hello\"\nprint(type(a))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`str`\n\n\n\n( means `string`, for checking the data type we use `type()`).\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5687",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Questions on String Data Types",
+                "slug": "dataTypes__DataTypes/StringQ_md",
+                "sequence_num": 4,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/StringQ.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Note :\n\n Please read about `String Concatenation`.\n\n\n\nQuestion 1\n\n1. You have to take two `inputs` from the user whose data type is `STRING`.\n\n\n2. Then in `variable` by name `add`, store the sum of both the user `inputs`.\n\n\n3. Print the `variable` `add`.\n\n## Question 2\n\n\n\n\n1. Take one `INTEGER` type `input` and one `STRING` type `input` from the user.\n\n\n2. Then in `variable` by name `add`, store the sum of both the user `inputs`.\n\n\n3. Print the `variable` `add`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5688",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Boolean Data Type",
+                "slug": "dataTypes__DataTypes/Boolean_md",
+                "sequence_num": 5,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/Boolean.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Boolean Data Type`\n\n`Boolean` is a common data type of all `programming` languages. `Boolean` returns two values.\n\n\n\n`True`\n\n\n\n`False`\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=(\"\")\nprint(bool(a))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`False`\n\n\n\n Because empty `string` is `false`.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "b=(\"megha\")\nprint(bool(b))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\nBecause any `string` is `true` except empty.\n\n\n\nExample :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "print(True)\nprint(type(True))\nprint(False)\nprint(type(False))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "`Output` :-\n\n`True`\n\n\n\n`<class bool>`\n\n\n\n`False`\n\n\n\n`<class bool>`\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5689",
+                "parent_exercise_id": "5675",
+                "course_id": "165",
+                "name": "Table of Data Types",
+                "slug": "dataTypes__DataTypes/table_md",
+                "sequence_num": 6,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/DataTypes/table.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Data Types Table`\n\n|Example|Data Type|Output|\n|-----------|-----------|-----------|\n|`x=\"Hello world\"`|`String`|`Hello world (<class \u2018str\u2019>)`|\n|`x=20`|`Integer`|`20 (<class \u2018int\u2019>)`|\n|`x=20.5`|`Float`|`20.5 (<class \u2018`float`\u2019>)`|\n|`x=1j`|`Complex`|`1j (<class \u2018complex\u2019>)`|\n|`x=`True``|`Boolean(`True` or `False`)`|`True (<class \u2018bool\u2019>)`|\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5674",
+                "parent_exercise_id": "5674",
+                "course_id": "165",
+                "name": "Conversion",
+                "slug": "dataTypes__type-conversion/type-conversion-intro_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/type-conversion/type-conversion-intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "  \nNote :\n\nRemember to run all the `code` examples and see them. Only by trying them you will be able to learn.\n\n\n\n`What is Type Conversion`?\n\nIn the previous sections, we understood that there are different data types in `Python`. Some of the types we have read about are :\n\n\n\n1.`Integer`   \n2.`Float`   \n3.`String`\n\n\n\nExamples :-\n\nRead the examples carefully.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "# integer\nage = 27\ntotal_apples = 100\n\n# float\nweight = 10.5\narea = 120.56\n\n# string\nday = \"Wednesday\"\nname = \"Mahatma Gandhi\"\na = \"Y\"",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n  \nWe can convert our data from one `type` to another `data type` in `python`. This will come in very handy in the future because we will often have data in one type and we will have to convert to another type. In `Python` we can do this with the help of `type conversions` :-\n\n\n\n1.`Float to String`\n2.`Float to Integer`\n3.`Integer to String`\n4.`Integer to Float`\n5.`String to Float` \n6.`String to Integer`\n\n\n\n\n`String to Integer and String to Float`\n\nNow let us see how to convert to `INTEGER`. `Type cast 12` to `Python` `Integer` and store `12`.\n\n\n\nExamples :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12'\nvar_b = int(var_a)\nprint (type(var_a))\nprint (type(var_b))\nprint (var_a + var_a)\nprint (var_b + var_b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Python` does not know how to extract `integers` from `12houses`.\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12houses'\nvar_b = int(var_a)\nprint (type(var_a))\nprint (type(var_b))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Python` tries to convert `STRING to INTEGER `but throws an `error` if it is even a bit confusing. Ex :- `Python` cannot convert `12.2`, and `12houses` to `integer` but can do the same for `12`.\n\n\n\n`Python` does not know how to extract `integers` from `12`\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12.2'\nvar_b = int(var_a)\nprint (type(var_a))\nprint (type(var_b))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Float to Integer and Float to String`\n\nConverts any `FLOAT` to `Python` `INTEGER` by removing its decimal part.\n\n\n\nExamples :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = 12.2\nvar_b = int(var_a)\nprint (type(var_a))\nprint (type(var_b))\nprint (var_b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nNow we will learn to `typecast` in `FLOAT`. This is similar to `typecasting` to `INTEGER`. See it yourself.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12'\nvar_b = float(var_a)\nprint (type(var_a))\nprint (type(var_b))\nprint (var_a + var_a)\nprint (var_b + var_b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12.2'\nvar_b = float(var_a)\nprint (type(var_a))\nprint (type(var_b))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Python` does not know how to extract `FLOAT` from `12houses`.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = '12houses'\nvar_b = float(var_a)\nprint (type(var_a))\nprint (type(var_b))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`Integer to Float and Integer to String`\n\n  \n`Python` simply adds the decimal point when we convert `INTEGER` to `FLOAT`.\n\n\n\nExamples :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var_a = 12\nvar_b = float(var_a)\nprint (type(var_a))\nprint (type(var_b))\nprint (var_b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nLook carefully here that `Python` adds `.0` to the last. Try converting a `FLOAT 12.2` to an `INTEGER` in `Python`. Try and understand what is happening.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5678",
+                "parent_exercise_id": "5674",
+                "course_id": "165",
+                "name": "Type Conversion Question 1",
+                "slug": "dataTypes__type-conversion/type-conversion-question_md",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/type-conversion/type-conversion-question.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Exercise.\n\n*You can answer each question by `uploading` a `file`.*\n\n\n\n*Remember `python` `files` have `.py extension`*.\n\n\n\n**For your sake, we have broken this question into several parts. But you have to submit in a single `file`.**\n\n\n\nPart 1\n\n1.Store a `STRING` value in `var12`.\n2.Then `typecast` the `STRING` value to `FLOAT` and store in `var13`.\n\n\n\nPart 2\n\n1.Store a `FLOAT` value in `var23`. \n2.Then `typecast` the `FLOAT` value to `INTEGER` and store in `var24`.\n\n\n\nPart 3\n\n1.Store an `INTEGER` value in `var34`.\n2.Then `typecast` the `INTEGER` value to `STRING` and store in `var35`.\n\n\n\nPart 4\n\n1.Store a `FLOAT` value in `var45`.\n2.Then `typecast` the `FLOAT` value to `STRING` and store in `var46`.\n\n\n\nPart 5\n\n1.Store a `STRING` value in `var56`.\n2.Then `typecast` the `STRING` value to `INTEGER` and store in `var57`.\n\n\n\n`Upload` the `code` of all the parts of this question by writing it in a single `python` `file`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5679",
+                "parent_exercise_id": "5674",
+                "course_id": "165",
+                "name": "type conversion",
+                "slug": "dataTypes__type-conversion/user-input-type-conversion_md",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/type-conversion/user-input-type-conversion.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Introduction\n\nIn this section, we want to take `input` from user using `python`. Then we'll also explore doing `type conversions` with that `input`.\n\n\n\nIn the future, very often we will have to take some `input` from our users. To take an `input` in `Python`, we use `input`.\n\n\n\nExample 1 :-\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "user_input = input(\"Kuch input daaliye \")",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "When it runs, `python` will stop and a cursor will appear. Here you have to put some `inputs`. Press `Enter` after you have made your `input`. Now, when you `print user_input`, whatever value you had to enter will be in the form of a `string` in the `user_input` `variable`.\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "print (user_input)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nExample 2 :-\n\nLet us understand this in more detail by taking an example of another `input`.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "number1 = input(\"Enter a number \")",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nLook here that we have put a `string` inside the brackets of `raw_input`. The value of this `string` is `\"Enter a number\"`. Whatever `string` we put inside the inner brackets, that `string` is printed by `Python` before asking for `input`. It gives some hint to the user as to what to `input`. Like in the example above, `python` will print `\"Enter a number\"` before asking for `input`. And when the user presses `enter` after typing in a number (`input`), `variable` `number1` will have that value.  \n\n\n  \nIf we do print `number1` in the `python shell`, then whatever value we have entered, will be printed.\n\n\n\n`Type Conversion of User Inputs`\n\n  \nWhenever we take user `input` from `input` to a `variable` it is in the `string` type. Meaning, whatever the user puts in, `raw_input` makes it a `string`.\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "number2 = input(\"Enter a number \")",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Here the data type of `number2` will be `string`. Whenever we take the value of a `variable` as `input` from `input`, that value is in the form of a `string`. If the user has to `input` a number, it will also be in the form of a `string`.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "print (type(number2))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nLike if here we entered 25 then `number2` would contain \"25\". Any value that has `quotes` in front of it is a `string`. To convert it to `  INTEGER` we have to use `int()`.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "number3 = int(number2)\nprint (type(number3))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nOne more `type conversion and raw_input` example.\n\nBelow is a final example to understand all these things better. This example prints two numbers by taking the `input` and multiplying them.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "number_x = input(\"Pehla number daaliye \")\nnumber_y = input(\"Dusra number daaliye\")\nnumber_x = int(number_x) # raw_input se hume number_x string type mein mila\nnumber_y = int(number_y) # raw_input se hume number_y string type mein mila\nprint (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nHere it is important to understand that we convert `number_x` and `number_y` to `integer` before multiplying because with `input` we get `input` always in the form of a `string`.\n\n\n\nFun Activity :\n\n*Run this example without converting `number_x` and `number_y` to `int` and see what `error` occurs. Google this `error` and try to solve it. Talk to your friends around you, too. For this, you will have to remove the lines with `number_x = int(number_x)` and `number_y = int(number_y)`.*\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5680",
+                "parent_exercise_id": "5674",
+                "course_id": "165",
+                "name": "raw_input Question 1",
+                "slug": "dataTypes__type-conversion/user-input-question1_md",
+                "sequence_num": 103,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/type-conversion/user-input-question1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 1\n\n*`Save` your `code` as a `python` `file` (with `.py extension`) and submit it.*\n\n\n\nThis question is divided into different parts. All the `code` has to be written and `uploaded` in a single `python` `file`.\n\n\n\nPart 1\n\nTake a `STRING` `input` from the user using `raw_input` in `var1`.\n\n\n\nPart 2\n\nIn `var2` take another `STRING` `input` from the user using `raw_input`.\n\n\n\n\nPart 3\n\nJoin `var1` and `var2`, then print the result.\n\n\n\n  \n*For Example :- If `var1` contains `STRING` `\"nav\"` and `var_2` contains `\"gurukul\"`, then `navgurukul` should be printed.*\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5681",
+                "parent_exercise_id": "5674",
+                "course_id": "165",
+                "name": "raw_input Question 2",
+                "slug": "dataTypes__type-conversion/user-input-question2_md",
+                "sequence_num": 104,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/type-conversion/user-input-question2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 2\n\n*`Save` your `code` as a `python` `file` (with `.py extension`) and submit.*\n\n\n\nThis question is divided into different parts. All the `code` has to be written and `uploade`d in a single `python` `file`.\n\n\n\nPart 1\n\nTake a number `input` using `input` in `var_a` and don't forget to convert it to `INTEGER`.\n\n\n\n\nPart 2\n\nTake a number `input` using `input` in `var_b` and don't forget to convert it to `INTEGER`.\n\n\n\n\nPart 3\n\nPrint the sum of `var_a` and `var_b`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5677",
+                "parent_exercise_id": "5677",
+                "course_id": "165",
+                "name": "Debug  Code",
+                "slug": "dataTypes__Debug/intro_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/Debug/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Debug Code`\n\nNow we will `debug` the `code` related to data types.\n\n\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = \"Megha\"\nprint a",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nB. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "C. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"navgurukul\"\nb=13\nprint(a+b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nD.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=\"12\"\nb=13.1\nprint(a+b)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nE.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5676",
+                "parent_exercise_id": "5676",
+                "course_id": "165",
+                "name": "Code Output",
+                "slug": "dataTypes__Output/intro_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/Output/intro.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Code` `Output`\n\nNow we will do some questions related to data types, which will help us in better understanding of the topic.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5682",
+                "parent_exercise_id": "5676",
+                "course_id": "165",
+                "name": "Question 1",
+                "slug": "dataTypes__Output/Question1_md",
+                "sequence_num": 301,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/Output/Question1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Check the `type of data` :-\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "a=5\na = a * \"5\"\nprint(type(a))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nB. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "var1 = \"nav\"\nvar2 = \"gurukul\"\nprint(type(var1+var2))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nC.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num1=\"7\"\nnum2=\"number\"\nprint(type(num1+num2))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nD.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num=6.8\nnum1=5\nprint(type(num+num1))",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5683",
+                "parent_exercise_id": "5676",
+                "course_id": "165",
+                "name": "Question 2",
+                "slug": "dataTypes__Output/Question2_md",
+                "sequence_num": 302,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/dataTypes/Output/Question2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Question 2\n\nA.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "print(bool(False))\nprint(bool(None))\nprint(bool(0))\nprint(bool(\"\"))\nprint(bool(1))",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nB. \n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "x = 20\ny = 5\nresult = x + True + y - False\nprint(result)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nC.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"\nprint(str3)",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nD.\n\n\n\n"
+                    },
+                    {
+                        "type": "python",
+                        "value": {
+                            "code": "num=6.8\nprint(num)\nnum=12\nprint(num)\nprint(num + num)\nnum = num + 10\nprint(num)",
+                            "testCases": []
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

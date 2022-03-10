@@ -1,0 +1,1055 @@
+{
+    "course": {
+        "id": "174",
+        "name": "JS Loops",
+        "logo": "http://navgurukul.org/img/sqlogo.jpg",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "We will discuss about different types of loops in javascript.",
+        "type": "js",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "6273",
+                "parent_exercise_id": null,
+                "course_id": "174",
+                "name": "Loops",
+                "slug": "js-loops__Introduction_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Introduction.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Example:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "console.log(\"Hello World\")\nconsole.log(\"Hello World\")\nconsole.log(\"Hello World\")\nconsole.log(\"Hello World\")\nconsole.log(\"Hello World\")\n \n// Output :\n// Hello World\n// Hello World\n// Hello World\n// Hello World\n// Hello World\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "In the above example, I am printing Hello World 5 times by using console.log().  \n\n\n\nBut if one of our friends asks us to print Hello World 100 times, it will be really difficult  for us  to write or copy and paste Hello World 100 times.  \n\n\n\nTo resolve this issue in the programming `loop` comes in the picture. `Loop` helps us to do work again and again until the condition gets `false`.  \n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "var a = 1;\nwhile(a <= 100){\n  console.log(\"Hello World\")\n  a = a + 1\n \n// Output: - \n// Hello World\n// Hello World\n// Hello World\n// Hello World\n// Hello World\n// .\n// .\n// .\n// Hello World\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "The above program will print Hello World 100 times.\n\n\n\nWe defined,  a =1, it will check while condition a<=100 (1<=100) that is `true`, so it will go to run the inside block of `code`  and console the Hello World first time, and increment a to 2.\n\n\n\nNow a =2, it will check for a while condition a<=100 (2<=100) that is `true`, so it will go to run the inside block of `code`  and console the Hello World second time, and increment a to 3.\n\n\n\nNow a =3, it will check for a while condition a<=100 (3<=100) that is `true`, so it will go to run the inside block of `code`  and console the Hello World third time, and increment a to 4.\n\n\n\nNow a =2, it will check for a while condition a<=100 (4<=100) that is `true`, so it will go to run the inside block of `code`  and console the Hello World fourth time, and increment a to 5.\n\u2026\n\u2026.\n\u2026.\n\u2026.\n\u2026\u2026\n\n\n\n\u2026\u2026.\n\n\n\nIt will go upto 100, and print Hello World 100 th time and a is incremented to 101.\n\n\n\nNow a =101, it will check for a while condition a<=100 (101<=100) that is clearly `false`, so it won't run inside `code` and it will end.\n\n\n\nHave a look at another `Loop` example.\n\n\n\nExample :\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "var a = 1;\nwhile(a <= 100){\n   console.log(a)\n   a = a + 1\n}\n\n// Output :\n\n// 1\n// 2\n// 3\n// 4\n// 5\n// 6\n// 7\n// ..\n// ..\n// ..\n// 100",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation :\n\nThis `code` will print 1 to 100 without using console.log 100 times. This is because of the `loop`. `Loop` helps us to work on the sequence of the tasks.\n\n\n\nWe defined,  a =1, it will check for a while condition a<=100 (1<=100) that is `true`, so it will go to run the inside block of `code`  and console the 1 first time, and increment a to 2.\n\n\n\nNow a =2, it will check for a while condition a<=100 (2<=100) that is `true`, so it will go to run the inside block of `code`  and console the 2 second time, and increment a to 3.\n\n\n\nNow a =3, it will check for a while condition a<=100 (3<=100) that is `true`, so it will go to run the inside block of `code`  and console the 3 third time, and increment a to 4.\n\n\n\nNow a =2, it will check for a while condition a<=100 (4<=100) that is `true`, so it will go to run the inside block of `code`  and console the 4 fourth time, and increment a to 5.\n\u2026\n\u2026\n\u2026\n\u2026\n...\n\n\n\n\u2026\n\u2026\n\u2026\n\n\n\nIt will go upto 100, and print 100 on 100 th time and a is incremented to 101.\n\n\n\n\nNow a =101, it will check for a while condition a<=100 (101<=100) that is clearly `false`, so it won't run inside `code` and it will end.\n\n\n\nTypes of `loops`\n\n    \nThere are five types of `loops` in JS.\n\n\n\n- while `loop`\n\n- for `loop`\n\n- do while `loop`\n\n- for in \n\n- for of\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6272",
+                "parent_exercise_id": null,
+                "course_id": "174",
+                "name": "Increment a number",
+                "slug": "js-loops__Increment-a-number_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Increment-a-number.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "You can easily increment or add one to a `variable` with the ++ `operator`.\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "i++;\n// Or it is equivalent to \ni=i+1;",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6277",
+                "parent_exercise_id": null,
+                "course_id": "174",
+                "name": "Decrement a number",
+                "slug": "js-loops__Decrement-a-number_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Decrement-a-number.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "You can easily decrement or add one to a `variable` with the -- `operator`.\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "i--;\n// Or it is equivalent to \ni=i-1\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6274",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "While loop",
+                "slug": "js-loops__Types-of-loops/While-loop_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/While-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Example:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "var count = 1;\nwhile (count < 10) {\n   console.log(count);\n   count +=2;\n}\n\n// Output :\n\n// 1\n// 3\n// 5\n// 7\n// 9\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\ncount +=2 really just means count = count + 2.\n\n\n\nWhen this `loop` runs the first time, the value of count is 1, therefore count is printed\n\n\n\nWhen this `loop` runs the second time, the value of count is 3, therefore count is printed\n\n\n\nWhen this `loop` runs the third time, the value of count is 5, therefore count is printed\n\n\n\nWhen this `loop` runs the fourth time, the value of count is 7, therefore count is printed\n\n\n\nWhen this `loop` runs the fifth time, the value of count is 9, therefore count is printed\n\n\n\nWhen this `loop` runs the sixth time, the value of count is 11. Clearly, 11>10, so the while `loop` will stop.\n\n\n\nNote\n\nWhile `loop` helps us to `execute` a block of `code`. While runs upto a specified condition is `true` and stops once that condition is no longer `true`.\n\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "\nvar i=0;\nwhile (i<7){\n    if(i%2==0){\nconsole.log(i)\n    }\n    i++;\n}\n \n\n// Output:\n// 0\n// 2\n// 4\n// 6\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nWhen this `loop` runs the first time, the value of i is 0, 0< 7 is `true`, 0%2 ==0 `true` ,therefore i is printed, and incremented i to 1\n\n\n\nWhen this `loop` runs the second time, the value of i is 1, 1<7 `true`, 1%2 ==0 `false`, therefore i is not printed, and directly incremented to 2\n\n\n\nWhen this `loop` runs the third time, the value of i is 2, 2< 7 is `true`, 2%2 ==0 `true` ,therefore i is printed, and incremented i to 3\n\n\n\nWhen this `loop` runs the fourth time, the value of i is 3, 3<7 `true`, 3%2 ==0 `false`, therefore i is not printed, and directly incremented to 4\n\n\n\nWhen this `loop` runs the fifth time, the value of i is 4, 4< 7 is `true`, 4%2 ==0 `true` ,therefore i is printed, and incremented i to 5\n\n\n\nWhen this `loop` runs the sixth time,the value of i is 5, 5<7 `true`, 5%2 ==0 `false`, therefore i is not printed, and directly incremented to 6\n\n\n\nWhen this `loop` runs the seventh time, the value of i is 6, 6< 7 is `true`, 6%2 ==0 `true` ,therefore i is printed, and incremented i to 7\n\n\n\nWhen this `loop` runs the eighth time, the value of i is 7, clearly 7<7 is `false` so the `loop` breaks here.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6279",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "For loop",
+                "slug": "js-loops__Types-of-loops/For-loop_md",
+                "sequence_num": 301,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/For-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Example:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "for(var i = 0; i < 3; i++){\n   console.log(i)\n}\n// Output :-\n// 0\n// 1\n// 2    \n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nWhen this `loop` runs the first time, the value of i is 0, 0<3 is `true`, and it is incremented due to i++, i value will become 1, therefore i is printed\n\n\n\nWhen this `loop` runs the second time, the value of i is 1, 1<3 is `true`, and it is incremented due to i++,i value will become 2, therefore i is printed\n\n\n\nWhen this `loop` runs the third time, the value of i is 2, 2<3 is `true`, and it is incremented due to i++,i value will become 3, therefore i is printed\n\n\n\nWhen this `loop` runs the fourth time, the value of i is 3. Clearly, 3<3, so the for `loop` will stop.\n\n\n\nWhen we are using a for `loop`, we can in one line initialize the `variable`, give the condition, and increment or decrement the `variable`. For `loop` runs for a specific number of times.\n\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "for(var n=9;n>0;n--){\n   console.log(n)\n}\n\n// Output:-\n// 9\n// 8\n// 7\n// 6\n// 5\n// 4\n// 3\n// 2\n// 1\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nWhen this `loop` runs the first time, the value of n is 9, n>0 is `true`, and it is decremented due to n--, n value will become 8, therefore i is printed\n\n\n\nWhen this `loop` runs the second time, the value of n is 8, n>0 is `true`, and it is decremented due to n--,n value will become 7, therefore i is printed\n\n\n\nWhen this `loop` runs the third time, the value of n is 7, n>0 is `true`, and it is decremented due to n--, n value will become 6, therefore i is printed\n\n\n\nWhen this `loop` runs the fourth time, the value of n is 6, n>0 is `true`, and it is decremented due to n--, n value will become 5, therefore i is printed\n\n\n\n\u2026.\n\n\n\n\u2026.\n\n\n\n\u2026.\n\n\n\n\u2026.\n\n\n\n\u2026.\n\n\n\nWhen this `loop` runs the tenth time, the value of n is 0, 0>0 is `false`, and the `loop` breaks.\n\n\n\nExample :\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "for (var s=25;s<=30;s++){\n   console.log(s)\n}\n\n\n// Output:-\n// 25\n// 26\n// 27\n// 28\n// 29\n// 30",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nWhen this `loop` runs the first time, the value of s is 25, 25<=30 is `true`, and it is incremented due to i++, i value will become 26, therefore 25 is printed\n\n\n\nWhen this `loop` runs the second time, the value of i is 26, 26<=30 is `true`, and it is incremented due to i++,i value will become 27, therefore 26 is printed\n\n\n\nWhen this `loop` runs the third time, the value of i is 27, 27<=30 is `true`, and it is incremented due to i++,i value will become 28, therefore 27 is printed\n\n\n\nWhen this `loop` runs the third time, the value of i is 28, 28<=30 is `true`, and it is incremented due to i++,i value will become 29, therefore 28 is printed\n\n\n\nWhen this `loop` runs the third time, the value of i is 29, 29<=30 is `true`, and it is incremented due to i++,i value will become 30, therefore 29 is printed\n\n\n\nWhen this `loop` runs the third time, the value of i is 30, 30<=30 is `true`, and it is incremented due to i++,i value will become 31, therefore 30 is printed\n\n\n\nWhen this `loop` runs the fourth time, the value of i is 3. Clearly, 31<=30 `false`, so the for `loop` will stop.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6280",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "Do While loop",
+                "slug": "js-loops__Types-of-loops/Do-while-loop_md",
+                "sequence_num": 302,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/Do-while-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Example:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "var i=1\ndo{\n  if(i%2==1){\n  console.log(i)\n  }\n  i++\n}\nwhile (i <=10)\n\n// Output:\n// 1\n// 3\n// 5\n// 7\n// 9    ",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nWhen i = 1, i%2 =1, and 1==1 `true`, therefore, 1 is printed. After that it is incremented to 2.\n\n\n\nWhen i = 2, now it will check for `loop` condition 2<=10 this is `true`, and it will go to do again, i%2  is 0 not 1, therefore, nothing is printed. After that it is incremented to 3.\n\n\n\nWhen i = 3, now it will check for `loop` condition 3<=10 this is `true`, and it will go to do again, i%2==1 `true`, therefore, 3 is printed. After that it is incremented to 4.\n\n\n\nWhen i = 4, now it will check for `loop` condition 4<=10 this is `true`, and it will go to do again, i%2  is 0 not 1, therefore, nothing is printed. After that it is incremented to 5.\n\n\n\nWhen i = 5 now it will check for `loop` condition 5<=10 this is `true`, and it will go to do again, i%2==1 `true`, therefore, 5 is printed. After that it is incremented to 6.\n\n\n\nWhen i = 6, now it will check for `loop` condition 6<=10 this is `true`, and it will go to do again, i%2  is 0 not 1, therefore, nothing is printed. After that it is incremented to 7.\n\n\n\nWhen i = 7 now it will check for `loop` condition 7<=10 this is `true`, and it will go to do again, i%2==1 `true`, therefore, 7 is printed. After that it is incremented to 8.\n\n\n\nWhen i = 8, now it will check for `loop` condition 8<=10 this is `true`, and it will go to do again, i%2  is 0 not 1, therefore, nothing is printed. After that it is incremented to 9.\n\n\n\nWhen i = 9 now it will check for `loop` condition 9<=10 this is `true`, and it will go to do again, i%2==1 `true`, therefore, 9 is printed. After that it is incremented to 10.\n\n\n\nWhen i = 10, now it will check for `loop` condition 10<=10 this is `true`, and it will go to do again, i%2  is 0 not 1, therefore, nothing is printed. After that it is incremented to 11.\n\n\n\nWhen i = 11 now it will check for `loop` condition 11<=10 clearly this is `false`, and it won\u2019t go further.\n\n\n\nNote\n\nThe do while `loop` is a variant of the while `loop` which evaluates the condition at the end of each `loop` iteration.\n\n\n          \n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let m=5;\nlet n=1\ndo{\n   console.log(m*n)\nn++\n}        \nwhile(n<=4)\n\n// Output:\n// 5\n// 10\n// 15\n// 20",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nm = 5, n = 1, m*n = 5, n++ is 2, 2<=10, so `loop` will `execute` another time.\n\n\n\nn=2, 2<=4 `true`, m=5, m*n(5*2) is 10, so 10 is printed and n incremented to 3 \n\n\n\nn=3, 3<=4 `true`, m=5, m*n(5*3) is 15, so 15 is printed and n incremented to 4\n\n\n\nn=2, 4<=4 `true`, m=5, m*n(5*4) is 20, so 20 is printed and n incremented to 5\n\n\n\nn=5, 5<=4 is `false` so `loop` will stop. \n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let sum=0\nlet i=0\ndo{\n  sum=sum+i \n  console.log(sum)\n  i++\n}\nwhile(i<=10)\n\n// Output :-\n  \n// 0\n// 1\n// 3\n// 6\n// 10\n// 15\n// 21\n// 28\n// 36\n// 45\n// 55",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nIn this `code` i is initial `variable` it starts from 0 and it will run till 10 \n\n\n\nsum is another `variable` for storing the value of  (sum+i) this operation. every time sum value will change because sum value is inside the `loop` and `variable` nature is that it updates the value.when condition will be `false` then it will give us the last update value.\n\n\n\nNOTE:\n\nIn do while `loop` we have to do increment inside the do block if increment will happen out of the do block it will give you `error`.\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let v=0\ndo{\n   console.log(v)\n}\nv++\nwhile(v<=3)\n \n// Output :-\n// SyntaxError: Unexpected identifier",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "    \nIn the next example, we will increment the `variable` completely outside the do..while `statement`.\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let v=0\n  do{\n   console.log(v)\n}\nwhile(v<=3)\nv++\n\n// Output:-\n// 0\n// 0\n// 0\n// loop will run to infinity",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nIn the first iteration, v is 0, v gets printed, 0<= 3, so `loop` runs again.\n\n\n\nIn the second iteration, v is 0, v gets printed, 0<= 3, so `loop` runs again.\n\n\n\nIn the third iteration, v is 0, v gets printed, 0<= 3, so `loop` runs again.\n\n\n\n\u2026\n\n\n\nDo you see what is happening? v is never getting incremented. Thus this program will run to infinity.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6281",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "Do While vs While",
+                "slug": "js-loops__Types-of-loops/Diff-between-while-loop-and-do-while-loop_md",
+                "sequence_num": 303,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/Diff-between-while-loop-and-do-while-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let i=2\ndo{\n   console.log(i);\n}\nwhile (i >10)\n \n \nwhile(i>10){\n   console.log(i);\n}\n\n// Output:\n// 2",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "From do while : 2\n\n\n\nFrom while : nothing will print\n\n\n\nExplanation:\n\nIn the above example, if you see from do while it is printed 2  because in do while first it won\u2019t check `loop` condition and it will run `loop` for 1 time and after a while it will check the `loop` condition i> 10 means 2>10 which is `false`.  So, it will never run.\n\n\n\nIn the while `loop` it will check the `loop` condition first. It is `false` so it won\u2019t `execute` a block of `code` written inside that, so that\u2019s why it won\u2019t print anything.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6285",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "For in loop",
+                "slug": "js-loops__Types-of-loops/For-in-loop_md",
+                "sequence_num": 304,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/For-in-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "for in `loop` is a special type of `loop` that iterates over the object or an array of elements.\n\n\n \nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "var cars = [\"Maruti\", \"Mercedes\", \"BMW\"];\nfor (car in cars){\n   console.log(cars[car]),\n}\n\n// Output:\n// Maruti\n// Mercedes\n// BMW",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nBy for in when you are `loop`ing on an array, in the car each time its `key` (index number) will come like 0, 1 ,2 respectively. \n\n\n\nWhen the first time `loop` is running the car value is 0, we said to print cars[car] means cars[0] so it prints Maruti because in the zeroth position of cars we have Maruthi.\n\n\n\nWhen the second time `loop` is running, the car value is 1, we said to print cars[car] means cars[1] so it print Mercedes because in the first position of cars we have Mercedes.\n\n\n\nWhen the third time `loop` is running, the car value is 2, we said to print cars[car] means cars[2] so it prints BMW because in the first position of cars we have BMW.\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "const campus_list=[\"Bangalore\",\"Dharamshala\",\"Pune\",\"Bangalore_another\"]\nfor(let campus in campus_list){\n   console.log(campus)\n}\n\n// Output: \n// 0\n// 1\n// 2\n// 3\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nBy for in when you are `loop`ing  on Array, in  the campus each time its `key` (index number) will come like 0,1 ,2, 3 respectively. \n\n\n\nIn the above example, we used index number to get element from list. In this cureent example we prinnted the index number only be the varibale campus, and in the campus 0, 1, 2, 3 will come respectively.\n\n\n\nFor more understanding about for in `loop` go through this link:\n\n- [click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)\n"
+                    }
+                ]
+            },
+            {
+                "id": "6282",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "For of loop",
+                "slug": "js-loops__Types-of-loops/For-of-loop_md",
+                "sequence_num": 305,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/For-of-loop.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "`Loops` over iterable objects such as array .\n\n\n    \n    \nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let name=[\"komal\",\"shweta\",\"rani\",\"swati\",\"mahi\",\"shanti\",\"sarmistha\"]\nfor(let lname of name){\n   console.log(lname);\n}\n\n// Output: \n// komal\n// shweta\n// rani\n// swati\n// mahi    \n// shanti\n// sarmistha\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nBy for of `loop`, when we are `loop`ing on array, in lname we will get the each element one by one, like \"komal\",\"shweta\",\"rani\",\"swati\",\"mahi\",\"shanti\",\"sarmistha\" respectively.\n\n\n\nWhen the `loop` is running for first time, lname value is \u201ckomal\u201d, we asked to print lname only, it prints komal.\n\n\n\nWhen the `loop` is running for second time, lname value is \u201cshweta\u201d, we asked to print lname only, it prints shweta.\n\n\n\nWhen the `loop` is running for third time, lname value is \u201crani\u201d, we asked to print lname only, it prints rani.\n\n\n\nWhen the `loop` is running for fourth time, lname value is \u201cswati\u201d, we asked to print lname only, it prints swati.\n\n\n\nWhen the `loop` is running for fifth time, lname value is \u201cmahi\u201d, we asked to print lname only, it prints mahi.\n\n\n\nWhen the `loop` is running for sixth time, lname value is \u201cshanti\u201d, we asked to print lname only, it prints shanti.\n\n\n\nWhen the `loop` is running for seventh time, lname value is \u201csarmistha\u201d, we asked to print lname only, it prints sarmistha.\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "arr=[\"a\",\"b\",\"g\",\"r\",\"t\"]\nfor(let character of arr){\nconsole.log(character);\n}\n\n// Output:\n\n// a\n// b\n// g\n// r\n// t   \n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nBy for of `loop`, when we are `loop`ing on array, in character we will get the each element one by one, like \"a\",\"b\",\"g\",\"r\",\"t\" respectively.\n\n\n\nWhen the `loop` is running for first time, character value is \"a\", we asked to print character only, it prints a.\n\n\n\nWhen the `loop` is running for second time, character value is \u201cb\u201d, we asked to print character only, it prints b.\n\n\n\nWhen the `loop` is running for third time, character value is \"g\", we asked to print character only, it prints g.\n\n\n\nWhen the `loop` is running for fourth time, character value is \"r\", we asked to print character only, it prints r.\n\n\n\nWhen the `loop` is running for fifth time, character value is \"t\", we asked to print character only, it prints t.\n\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "number_list=[23,\"maan\",67,\"gouri\",90,45,34]\nfor(let num of number_list){\nconsole.log(num);\n}\n \n\n// Output: \n\n// 23\n// maan\n// 67\n// gouri        \n// 90\n// 45\n// 34\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nBy for of `loop`, when we are `loop`ing on an array named as number_list, in num we will get each element one by one, like 23, \u201cmaan\u201d, 67, \u201cgouri\u201d, 90, 45, 34 respectively.\n\n\n\nWhen the `loop` is running for the first time, the num value is 23, we asked to print num only, it prints 23.\n\n\n\nWhen the `loop` is running for a second time, the num value is \u201cmaan\u201d. We asked to print num only, it prints maan.\n\n\n\nWhen the `loop` is running for the third time, the num value is 67, we asked to print num only, it prints 67.\n\n\n\nWhen the `loop` is running for the fourth time, the num value is \u201cgouri\u201d. We asked to print num only, it prints gouri.\n\n\n\nWhen the `loop` is running for the fifth time, the num value is 90, we asked to print num only, it prints mahi.\n\n\n\nWhen the `loop` is running for the sixth time, the num value is 45, we asked to print num only, it prints shanti.\n\n\n\nWhen the `loop` is running for the seventh time, the num value is 34, we asked to print num only, it prints 34.\n\n\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "\nlet obj={\"name\":\"sharmistha\",\"age\":21,\"hobby\":\"watching movie\",\n   \"goal\":\"fullstack_developer\"}\nfor(let prop of obj){\n   console.log(prop)\n}\n \n\n//  Output:\n\n// TypeError: obj is not iterable.\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "    \nExplanation:\n\nThe for of `loop` doesn\u2019t work with an object because it only works  with arrays.\nyou want to iterate over the properties(`key`,value pair) of the object you can use for in `loop`.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6283",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "for in vs for of",
+                "slug": "js-loops__Types-of-loops/Difference-between-for(in)-and-for(of)_md",
+                "sequence_num": 306,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/Difference-between-for(in)-and-for(of).md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Example:\n\n \n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "\nlet Navgurukul = ['Pune', 'Bangalore', 'Sarjapur'];\n\n// cmpKey are the property keys\nfor (let cmpKey in Navgurukul) {\n console.log(cmpKey);\n}\nconsole.log(\u201c------------------\u201d)\n// cmpValue are the property values\nfor (let cmpValue of Navgurukul) {\n console.log(cmpValue)\n}\n\n// Output:\n\n// 0\n// 1\n// 2\n// ------------------------\n// Pune\n// Bangalore\n// Sarjapur\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nfor (let cmp`Key` in Navgurukul) here cmp`Key` is the `variable` because of for in `loop` in cmp`Key` we will get index numbers only as 0, 1, 2 respectively.\n\n\n\nfor (let cmpValue of Navgurukul) here cmpValue is the `variable` because of for of in cmpValue we will get elements as values directly as Pune, Bangalore, Sarjapur.\n\n\n\nNote:\n\nFor in `loop` iterates on the `keys` or indexes that are there in the list but for of `loop` will run on the values. And for in will work on objects too but for of can\u2019t.\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "const campus={\"camp_name\":\"Bangalore_campus\",\"establish\":2016,\"election\":\"three_months\"}\nfor(let pro in campus){\n console.log(campus[pro])\n}\n\nconsole.log(\"--------------\");\n \nfor(let pro of campus){\n console.log(pro)\n}\n \n// Output:\n// Bangalore_campus\n// 2016\n// three_months\n// --------------\n// It will throw an error because for of can\u2019t iterate through objects.\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation\n\nfor(let pro in campus) in this `code` for in can iterate on objects and in the `variable` pro we will get `keys` directly as camp_name, es`tab`lish, election and used those `keys` and got the values as Bangalore_campus, 2016, three_months respectively.\n\n\n\nfor(let pro of campus) it will give `error` because for of can't run `loop` on objects,\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6284",
+                "parent_exercise_id": "6274",
+                "course_id": "174",
+                "name": "Some more...",
+                "slug": "js-loops__Types-of-loops/Some-more_md",
+                "sequence_num": 307,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Types-of-loops/Some-more.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Find length of object\n\nTo find the length of an object we can use builtin functions Object.`keys`() either we can use  Object.values().\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "const birds={name:\"Bald Eagle\",type:\"Hawk\",ScientificName:\"HaliaeetusLeucocephalus\"}\n          \nconsole.log(Object.keys(birds).length)\n\n// Output: \n// 3\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nObject.`keys`(objectName) will give you the list of property names.\n\n\n\nSo, Object.`keys`(birds) will give me the list i.e., \n\n\n\n[ 'name', 'type', 'ScientificName' ]\nAnd when we use length on it , it gives 3. hooray!.....\n\n\n    \nNote:\n\nObject.`keys`(objectName) will give you the list of property names.\n\n\n\nObject.values(objectName) will give you the list of values.\n\n\n\nExample:\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "const birds={name:\"Bald Eagle\",type:\"Hawk\",\n   ScientificName:\"HaliaeetusLeucocephalus\"}\n          \nconsole.log(Object.values(birds).length)\n      \n\n// Output: \n//  3\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Explanation:\n\nObject.values(objectName) will give you the list of property values.\n\n\n\nSo, Object.`keys`(birds) will give me the list i.e., \n\n\n\n[ 'Bald Eagle', 'Hawk', 'HaliaeetusLeucocephalus' ]\nAnd when we use length on it , it gives 3. hooray!.....\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "6275",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question1",
+                "slug": "js-loops__Exercises-code_output/Question1_md",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Program to check whether a given `string` is a palindrome or not.\n\n\n\nWhat is the `output` of the following program?\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// enter name: kumar and tell us the what is the output will come\nconst n=require(\"readline-sync\");\nvar name=n.question(\"enter name: \")\nconst store=name;\nvar string=\"\"\nfor (let i=name.length-1;i>=0;i--) {\n   string=string+name[i]\n}\nif (store===string) {\n   console.log(\"its palindrome string\")\n}\nelse {\n   console.log(\"it's not a palindrome string\")\n}",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "it's not a palindrome string",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6286",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question2",
+                "slug": "js-loops__Exercises-code_output/Question2_md",
+                "sequence_num": 401,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Program to check whether the given number is a prime or not?\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// take input 3 and find out the ouput by following the code line by line\nvar n=require(\"readline-sync\");\nconst num=n.question(\"enter number: \");\nlet i=2\nvar count=0;\nwhile (i<num) {\n       if (num%i===0) {\n       count=count+1\n       }\n       i++;\n}\nif (count===0) {\n       console.log(\"prime number\")\n}\nelse {\n   console.log(\"not prime number\")\n}",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "prime number",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6287",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question3",
+                "slug": "js-loops__Exercises-code_output/Question3_md",
+                "sequence_num": 402,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question3.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "What is the ouput of the following `code`?\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "for (var i=0;i<10;) {\n   console.log(i)\n}",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "It will run indefinitely because we didn't given increment to it.",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6288",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question4",
+                "slug": "js-loops__Exercises-code_output/Question4_md",
+                "sequence_num": 403,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question4.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Program to print `tab`le of a given number\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// take n as 2 and tell the output\nlet n=require(\"readline-sync\");\nlet num=parseInt(n.question(\"enter number: \"));\nfor (let i=1;i<=10;i++) {\n       multi=num*i;\n       console.log(num + \" *\" + i + \"=\" + multi)\n   }",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "2 * 1=2\n2 * 2=4\n2 * 3=6\n2 * 4=8\n2 * 5=10\n2 * 6=12\n2 * 7=14\n2 * 8=16\n2 * 9=18\n2 * 10=20",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6290",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question5",
+                "slug": "js-loops__Exercises-code_output/Question5_md",
+                "sequence_num": 404,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question5.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Given a `string`, write a program to check if it is palindrome or not. \n\n\n\nA `string` is said to be palindrome if the reverse of the `string` is the same as the `string`. \n\n\n\nFor example :\n\n\n\n\u201cRADAR\u201d is a palindrome, but \u201cRADIX\u201d is not a palindrome\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "const n=require(\"readline-sync\");\nvar name=n.question(\"enter name: \")\nconst store=name;\nvar string=\"\"\nfor (let i=name.length-1;i>=0;i--) {\n  string=string+name[i]\n}\nif (store===string) {\n  console.log(\"its palindrome string\")\n}\nelse {\n  console.log(\"it's not a palindrome string\")\n}\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6297",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question6",
+                "slug": "js-loops__Exercises-code_output/Question6_md",
+                "sequence_num": 405,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question6.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "write a program to console all the numbers from 1 to 100.\n\n\n\nSample : `Input` 100\n\n\n\nSample `output` : \n\n\n\n1\n2 \n3 \n4 \n5 \n6 \n... \n\u2026\u2026\u2026\n\u2026\u2026\u2026\n100\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "for (var i = 1; i <= 100; i++){\n    console.log(i);\n};",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6293",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question7",
+                "slug": "js-loops__Exercises-code_output/Question7_md",
+                "sequence_num": 406,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question7.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Write a program to console numbers between 1 to 100 which are divisible by 7.\n\n\n\nSample :  `input`  100\n\n\n\nSample  `output` : \n7 \n\n\n\n14 \n\n\n\n21 \n\n\n\n28 Write a program to console numbers between 1 to 100 which are divisible by 7.\nSample :  `input`  100\nSample :  `output`  7 14 21 28 35 42 56 63 70 77 84 91 98\n\n\n\n35 \n\n\n\n42 \n\n\n\n56 \n\n\n\n63 \n\n\n\n70 \n\n\n\n77 \n\n\n\n84 \n\n\n\n91 \n\n\n\n98\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": " \nfor (var i = 1; i <= 100; i++){\n  if(i % 7 ===0){\n     console.log(i);\n  };   \n};\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6289",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question8",
+                "slug": "js-loops__Exercises-code_output/Question8_md",
+                "sequence_num": 407,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question8.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Write a  program to calculate the sum of the numbers of 1 to 100 . \n\n\n\nLike this 1+2+3+4 +5+6+7....+95+96+97+98+99+100  \n\n\n\nthen console sum of the numbers.\n\n\n\nSample :  `input`  100\nSamput : `output`  5050\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "var sum = 0\nfor (var i = 1; i <= 100; i++){\n  sum = sum + i\n};\nconsole.log(sum);",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6296",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question9",
+                "slug": "js-loops__Exercises-code_output/Question9_md",
+                "sequence_num": 408,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question9.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Create a `loop` that takes 10 numbers as `input` from the user. \n\n\n\nAfter taking the `input` console the sum of all those numbers. \n\n\n\nThis program will go like this. Each time using readline-sync will take a number `input` from the user.  \n\n\n\nSample : `input` 10\n\n\n\nThen for example 10+16+9+10+56+78+98+43+21+76.. Total sum of number 417 \n\n\n\nSample : `output`  417\n\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "var sum = 0;\nfor (var i = 1; i <= 10; i++){\n  const input = require('readline-sync');\n  let number = input.questionInt('Enter the number');\n  sum = sum +number\n};\nconsole.log(sum);",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6291",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question10",
+                "slug": "js-loops__Exercises-code_output/Question10_md",
+                "sequence_num": 409,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question10.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "console this pattern using a `loop`. 1, -2, 3, -4, 5, -6 ..99, -100\n\n\n\nHint\n\nNotice how the first number is positive, the second number negative, then the positive number and then the negative number. Pattern means positive (+) number, negative (-) number, positive (+) number, negative (-) number etc. And remember that we can make any number negative of any number by multiplying it by -1. \n\n\n\nCan you write this program using this hint?\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "for (var i = 1;0 i <= 10; i++){\n  if (i%2===0){\n     console.log(-i);\n  }else{\n     console.log(i);\n  }\n};\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6292",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question11",
+                "slug": "js-loops__Exercises-code_output/Question11_md",
+                "sequence_num": 410,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question11.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Write a program where it will do the following things with 1 to 20 numbers:\n\n\n\nWhen number is divisible by 3 print \u201cNav\u201d\n\n\n\nWhen number is divisible by 7 print \u201cGurukul\u201d\n\n\n\nThe numbers which is divisible by 3 and 7 print \u201cNavGurukul\u201d\n\n\n\nIf it is not coming in any case above print number only.\n\n\n\n`Output`:\n1\n\n\n\n2\n\n\n\nNav\n\n\n\n4\n\n\n\n5\n\n\n\nNav\n\n\n\nGurukul\n\n\n\n8\n\n\n\nNav\n\n\n\n10\n\n\n\n11\n\n\n\nNav\n\n\n\n13\n\n\n\nGurukul\n\n\n\nNav\n\n\n\n16\n\n\n\n17\n\n\n\nNav\n\n\n\n19\n\n\n\n20\n\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "for(var i=1; i<= 100; i++){\n   if(i%3 ===0 && i%7 === 0){\n       console.log(\"NavGurukul\");\n   }\n   else if (i%3 === 0){\n       console.log(\"Nav\");\n   }\n   else if (i%7 === 0){\n       console.log(\"Gurukul\");\n   }\n   else{\n       console.log(i);\n   }\n}",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6294",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question12",
+                "slug": "js-loops__Exercises-code_output/Question12_md",
+                "sequence_num": 411,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question12.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Write a program to take 10 user `input`, and print the sum of that 10 `inputs`.\n\n\n\nNote:\n\nFor this program you need to initialize with 50, and try to use decrement and run `loop`.\n\n\n\nProgram may run like this. Everytime by using readline sync we will take an `input`.\n\n\n\nKoi bhi number daaliye > 10\n\n\n\nKoi bhi number daaliye > 16\n\n\n\nKoi bhi number daaliye > 9\n\n\n\nKoi bhi number daaliye > 10\n\n\n\nKoi bhi number daaliye > 56\n\n\n\nKoi bhi number daaliye > 78\n\n\n\nKoi bhi number daaliye > 98\n\n\n\nKoi bhi number daaliye > 43\n\n\n\nKoi bhi number daaliye > 21\n\n\n\nKoi bhi number daaliye > 76\n\n\n\nTotal Sum: 417\n\n\n\nIn the final line we print Total Sum: 417. \n\n\n\nThis one prints 417 because 10+16+9+10+56+78+98+43+21+76 ka sum 417 hai.\n\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "var sum = 0;\nfor (var i = 50; i >= 40; i--){\n const input = require('readline-sync');\n let number = input.questionInt('Enter the number');\n sum = sum +number\n};\nconsole.log(sum);\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6295",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question13",
+                "slug": "js-loops__Exercises-code_output/Question13_md",
+                "sequence_num": 412,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question13.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Print 1 to 10 numbers, but start initialization with 156.\n\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "var i =156;\nwhile (i<166){\n   console.log(i-155);\n   i+=1\n}",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6298",
+                "parent_exercise_id": "6275",
+                "course_id": "174",
+                "name": "Question14",
+                "slug": "js-loops__Exercises-code_output/Question14_md",
+                "sequence_num": 413,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-code_output/Question14.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Try to print this pattern\n\n\n \n5 5 5 5 5\n\n\n\n4 4 4 4 4\n\n\n\n3 3 3 3 3\n\n\n\n2 2 2 2 2\n\n\n\n1 1 1 1 1\n\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6278",
+                "parent_exercise_id": "6278",
+                "course_id": "174",
+                "name": "Question1",
+                "slug": "js-loops__Exercises-Debug/Question1_md",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-Debug/Question1.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Debug the `code` as per the given sample `input` and `output`\n\n\n\nSample `Input`: if i give `input` 2 it needs to give characters a and b because 95 is the ascii character of a, and 96 is the ascii character of b. `Loop` needs to run from 95 to those many times that user entered.\n\n\n\n`Input` 3\n`Output`: a b c\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let n=require(\"readline-sync\");\nlet choose_ascii=(n.question(\"enter number: \"));\nvar ascii_char=97+choose_ascii\nfor (var i=97;i<=ascii_char;i++) {\n       console.log(chr(i),end=\"\");\n}\n",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6299",
+                "parent_exercise_id": "6278",
+                "course_id": "174",
+                "name": "Question2",
+                "slug": "js-loops__Exercises-Debug/Question2_md",
+                "sequence_num": 501,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-Debug/Question2.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Print the maximum number in between the numbers given by user?\n\n\n\nif `loop`_time `input` is given 3, 3 times `input` need to give for making a list with 3 elements and need to find max from the list.\n\n\n\nDebug the `code` if anythinng wrong is there?\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "let c=require(\"readline-sync\");\nlet loop_time=c.question(\"enter loop time: \");\n \nvar maxi=0;\nlet lis=[ ]\nfor (let i=1;i<=loop_time;i++) {\n   let num=c.question(\"enter number: \")\n   lis.append(num)\n}\nvar maxi=lis[0];\nfor (let j=0;j<lis:length;j==) {\n   if (maxi<lis[j]) {\n       [maxi=lis[j]]\n   }\n \n}\nconsole.log(maxi)\n",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "let c=require(\"readline-sync\");\nlet loop_time=c.question(\"enter loop time: \");\nvar maxi=0;\nlet lis=[ ]\nfor (let i=1;i<=loop_time;i++) {\n  let num=c.question(\"enter number: \")\n  lis.push(num)\n}\nvar maxi=lis[0];\nfor (let j=0;j<lis.length;j++) {\n  if (maxi<lis[j]) {\n      [maxi=lis[j]]\n  }\n}\nconsole.log(maxi)",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6300",
+                "parent_exercise_id": "6278",
+                "course_id": "174",
+                "name": "Question3",
+                "slug": "js-loops__Exercises-Debug/Question3_md",
+                "sequence_num": 502,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Exercises-Debug/Question3.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Third\n\nDebug the `code` as per the given `output`\n\n\n\n`Output` should be \n\n\n\nmax-length\n\n\n\nno-amd\n\n\n\nprefer-arrow-functions\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "const result = {\n   success: [\"max-length\", \"no-amd\" \u201cprefer-arrow-functions\u201d],\n   failure: [\"no-var\", \"var-on-top\", \"linebreak\"]:\n   skipped: [\"no-extra-semi\", \"no-dup-keys\"]\n };\n\n\nconst success=result.success\nconst store=success,length\nfor(const value in success){\n  console.log(store[value])\n}",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "const result = {\n   success: [\"max-length\", \"no-amd\" ,\"prefer-arrow-functions\"],\n   failure: [\"no-var\", \"var-on-top\", \"linebreak\"],\n   skipped: [\"no-extra-semi\", \"no-dup-keys\"]\n };\n \nconst success=result.success\nconst store=success.length\nfor(const value in success){\n   console.log(success[value]);\n}",
+                            "testCases": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6276",
+                "parent_exercise_id": "6276",
+                "course_id": "174",
+                "name": "Guessing game",
+                "slug": "js-loops__Project2/Project_md",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/js-loops/Project2/Project.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Project2\n\nGuessing game\n\nThe game is about guessing a number between 1 to 10, you can choose how many times you want to guess and guess those many times, if you are able to guess the secret number you won the game, or if your chances are completed means you completely lost the game. Are you ready to play the game?\n\n\n \n \nLet\u2019s play the game and understand with fun:\n[online game\n](https://www.funbrain.com/games/guess-the-number)\n\n\n\n"
+                    },
+                    {
+                        "type": "javascript",
+                        "value": {
+                            "code": "// please write code here",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "solution",
+                        "value": {
+                            "code": "let readlineSync = require(\"readline-sync\");\nlet userChances = readlineSync.questionInt(\"how many times you want to guess: \");\nlet randomNumber= Math.floor(Math.random()*10);\nchances = userChances;\n \nfor (let i = chances; i > 0; i--) {\n   console.log(\"you have\"+i+\"chances to guess\")\n   userGuess = readlineSync.questionInt(\"guess number: \")\n   if (userGuess == randomNumber) {\n       console.log(\"congrats! ,your guess is right\")\n       break\n   }\n   else if(userGuess<randomNumber){\n       console.log(\"go higher!\");\n   }\n   else if(userGuess>randomNumber){\n       console.log(\"go lower!\");\n   }\n   else if(i == 1) {\n       console.log(\"sadly!, your chances are completed\")\n   }\n}",
+                            "testCases": []
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**For the next course [clickHere](https://www.merakilearn.org/course/126/exercise/3256)**\n"
+                    }
+                ]
+            }
+        ]
+    }
+}

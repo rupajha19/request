@@ -1,0 +1,780 @@
+{
+    "course": {
+        "id": "87",
+        "name": "English 701",
+        "logo": "https://bit.ly/2zp7YLR",
+        "notes": null,
+        "days_to_complete": "30",
+        "short_description": "English learning",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "5104",
+                "parent_exercise_id": null,
+                "course_id": "87",
+                "name": "Contents",
+                "slug": "english-701__Contents_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Contents.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "1. Email Writing - Lessons\n\n2. Email Writing - Phrases\n\n3. Email Writing - Exercise - Job `Applications`\n\n4. Tech Samvaad\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5106",
+                "parent_exercise_id": null,
+                "course_id": "87",
+                "name": "Email Writing - Lessons",
+                "slug": "english-701__lessons_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/lessons.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": " \nBasic Feature of Email\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ZHgyNZ0pGPc"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "How to Reply to an Email\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "uJKy4Jp-84w"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "[Part One\n](https://docs.google.com/presentation/d/1sjVwBhlkIudcKKPEEF09Kiw82FRZbtcjcQfXfTFSfFA/edit#slide=id.p)\n\n\n[Part Two\n](https://docs.google.com/presentation/d/1gTWSspgNILJpfZzoBwBy6v0YI7GxNQezlwg5NG8AI5c/edit#slide=id.p)\n\n\n[Part Three\n](https://docs.google.com/presentation/d/1UBrqZ4DNvdAHJgaOPmMi9FvQCn4QAIBtPtuM4-DSWU4/edit#slide=id.p)\n"
+                    }
+                ]
+            },
+            {
+                "id": "5103",
+                "parent_exercise_id": "5103",
+                "course_id": "87",
+                "name": "Email Writing - Important Phrases",
+                "slug": "english-701__phrases/phrases_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/phrases.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "The following pages contain phrases that are used to reply to different kinds of emails and in different parts of the email.\n\n\n\nGo throught the phrases, understand their meanings and learn them up.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5108",
+                "parent_exercise_id": "5103",
+                "course_id": "87",
+                "name": "Opening Phrases",
+                "slug": "english-701__phrases/opening_md",
+                "sequence_num": 201,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/opening.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Useful Phrases for Opening Emails\n\nOpening greeting for one person\n\n* Dear Mr/ Ms/ Dr/ Professor + sur name (= Dear Mr./ Ms./ Dr./ Prof + family name)\n\n\n* Dear Vidya\n\n\n* Hi Abhinav\n\n\n* Dear Sir or Madam\n\n\n\nOpening greeting to more than one person\n\n* Dear all\n\n\n* Hi (everyone/ guys)\n\n\n\n\nUseful Email Opening Lines\n\nOpening line mentioning the last contact between you\n\nThese are the lines you can use when you are already in conversation with the person and you want to reference your last conversation/email/meeting.\n\n\n\n* Thank you for your email (yesterday/ of 12 May) about\u2026\n\n\n* Thanks for your email this morning/ earlier/ yesterday/ on Monday/ last week/\u2026\n\n\n* Thanks for your quick reply./ Thanks for getting back to me so quickly.\n\n\n* Thanks for your phone call this morning/ the information about/ your interest in/ your help with/ your hospitality in\u2026/\u2026\n\n\n* Thanks for sending me/ for contacting me about/ for attending/ asking us about/ informing us/ giving us feedback on/ inviting me to/ talking to me about\u2026\n\n\n* It was great/ so nice to see you again on Monday.\n\n\n* (I) just read your email about/ (I) just got your message about/ (I) just got your request for\u2026\n\n\n* It was a pleasure/ my great pleasure to meet you last week.\n\n\n* Sorry for my late reply/ Sorry it took me so long to get back to you/ Sorry not to reply sooner (but/ but I had to\u2026).\n\n\n* Thank you for finding the time to meet me/ talk to me/ attend\u2026\n\n\n* Sorry it\u2019s been so long since I was last in touch/ since my last email.\n\n\n\n\nOpening line with the subject of the email\n\n* These are the opening lines you can use when you want to begin with the subject of the email.\n\n\n* I\u2019m writing to you about your latest model/ about the meeting next week/ about your presentation yesterday/ about\u2026\n\n\n* I am writing to you in connection with/ with regards to/ regarding/ concerning\u2026\n\n\n* I\u2019m writing (in order) to ask/ to enquire/ to confirm/ to check/ to inform you/ to follow up on/ to let you know/ to tell you/ to thank you/ to invite you to/ to update you on/ to announce that/ to ask for a favour/ to\u2026\n\n\n* (This is) just a quick note to say\u2026\n\n\n* I\u2019m writing (to you) because I have just found out that/ because I thought you\u2019d like to know that/ because I need/ because\u2026\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5109",
+                "parent_exercise_id": "5103",
+                "course_id": "87",
+                "name": "Useful Phrases for Main Body",
+                "slug": "english-701__phrases/mainbody_md",
+                "sequence_num": 202,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/mainbody.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Useful Phrases for Main Body of the Email\n\nMentioning attachments etc/ Mentioning information elsewhere\n\n* (For your reference,) please find the information/ the document/ some data/\u2026 attached.\n\n\n* Please see (the information/ the website/ the diagram/ the\u2026) below (for more details/ for\u2026).\n\n\n* If you look at the first line/ bullet point/ paragraph/ section/ page of\u2026 (below), you will see that\u2026\n\n\n* The parts in bold/ in red/ in green/\u2026 are my comments/ are my boss\u2019s feedback/ are the changes in the second draft/ are\u2026\n\n\n* I\u2019ve pasted in\u2026. below./ I\u2019ve copied in\u2026. below./ I\u2019ve put a copy of\u2026 below.\n\n\n* I\u2019ve attached\u2026/ ... is attached.\n\n\n* Here\u2019s the\u2026 (that I promised/ that you asked for/ that I mentioned/ that\u2026)\n\n\n* More information on this is available at http://.../ on the intranet/ in pg.. of our catalogue/\u2026\n\n\n\nRequests\n\n* Could you (possibly)\u2026?\n\n\n* Would you mind sending me/ \u2026ing\u2026?\n\n\n* I was wondering if you could/ if you would be able to\u2026\n\n\n* I\u2019d be very grateful if you could take action in the next few days/ if you could\u2026\n\n\n* I\u2019d really appreciate (some help with)\u2026\n\n\n\nEnquiries/ Asking for information\n\n* Could you (possibly) tell me\u2026?\n\n\n* (First of all) I\u2019d like to know\u2026\n\n\n* My (first/ second/ third/ next/ last/ final) question is about\u2026\n\n\n* I (also) have a question about\u2026\n\n\n* (If possible) I (also) need to know\u2026\n\n\n* My three (main) questions are below./ Please find my three (main) questions below.\n\n\n\nAnswering questions/ Giving information\n\n* You (also) asked us about\u2026\n\n\n* The answers to your question are below./ Please find my answers below.\n\n\n* In answer to your first/ second/ third/ last question\u2026\n\n\n* To answer your question about\u2026\n\n\n\nMaking arrangements/ Changing arrangements/ (Re) scheduling\n\n* I\u2019d like to meet on\u2026 if you are available/ free then.\n\n\n* I\u2019m available on\u2026 , if that is convenient/ okay with you.\n\n\n* I\u2019m afraid I can\u2019t make\u2026 (because\u2026) How about\u2026?\n\n\n* (Due to\u2026) I\u2019m afraid we need to put forward/ delay/ postpone/ put back/ cancel/ call off/ reschedule/ move/ rearrange\u2026\n\n\n\nMaking arrangements/ Changing arrangements/ (Re) scheduling\n\n* I\u2019d like to meet on\u2026 if you are available/ free then.\n\n\n* I\u2019m available on\u2026 , if that is convenient/ okay with you.\n\n\n* I\u2019m afraid I can\u2019t make\u2026 (because\u2026) How about\u2026?\n\n\n* (Due to\u2026) I\u2019m afraid we need to put forward/ delay/ postpone/ put back/ cancel/ call off/ reschedule/ move/ rearrange\u2026\n\n\n\nInstructions/ Commands/ Demanding action\n\n* Just a (quick/ brief/ friendly) reminder that\u2026\n\n\n* (In future/ From now on/ From next week) please make sure that you\u2026/ Please ensure that you\u2026\n\n\n\nGiving bad news\n\n* We regret to inform you that\u2026\n\n\n* We are sorry to announce that\u2026\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5110",
+                "parent_exercise_id": "5103",
+                "course_id": "87",
+                "name": "Closing Phrases",
+                "slug": "english-701__phrases/closing_md",
+                "sequence_num": 203,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/closing.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Closing line when you need a reply\n\n* I look forward to hearing from you (soon)./ (I\u2019m) looking forward to hearing from you (soon).\n\n\n* Please let me know if that\u2019s okay/ if that is accep`tab`le with you/ if that sounds okay/ if you can/ if you can help/ if you need an extension/ if you need to reschedule/ if\u2026\n\n\n* Closing line offering more communication if needed\n\n\n* (In the meantime) if you need any more information,\u2026/ If you require any further information (about/ in order to/ before you/ to help you\u2026/\u2026)/ If you need any more info/ Need more info,\u2026\n\n\n* If you have any (more) questions (about\u2026),\u2026/ Any more Qs,\u2026\n\n\n* \u2026 please do not hesitate to contact me./\u2026 please contact me./ \u2026 please feel free to contact me./ please get in touch./ \u2026 just let me know./ \u2026 just drop me a line (at any time).\n\n\n\nClosing line mentioning the next meeting\n\n* I look forward to seeing/ meeting you then.\n\n\n* See you on Monday/ on\u2026/ next week/ next\u2026/ then.\n\n\n* (I) hope we have the chance/ opportunity to meet again soon.\n\n\n\nClosing lines with apologies/ Closing lines when responding to complaints\n\n* I hope that is accep`tab`le with you./ (I) hope that is okay (with you).\n\n\n* Once again, please accept our apologies for any inconvenience caused/ for the inconvenience caused/ for the delay/ for\u2026\n\n\n* Thanks for your patience./ Thank you for your patience.\n\n\n* Thanks for your understanding./ Thank you for your understanding.\n\n\n\nUseful closing greetings for emails\n\n* Best regards\n\n\n* Sincerely (yours)\n\n\n* Best wishes\n\n\n* All the best\n\n\n* Best wishes\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5111",
+                "parent_exercise_id": "5103",
+                "course_id": "87",
+                "name": "Useful Phrases for Job Application",
+                "slug": "english-701__phrases/job_md",
+                "sequence_num": 204,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/job.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Subject Lines\n\n* Administrative Assistant Job - Your Name\n\n* Job Inquiry - Your Name\n\n* Managing Director Position\n\n* Job Posting #321: District Sales Manager\n\n* Communications Director Position - Your Name\n\n* `Application` for Sales Associate\n\n* Inquiry - Your Name\n\n* Social Media Expert Seeking New Opportunity\n\n* Marketing Director Looking for Next Role - 10 years experience\n\n* Research Assistant Resume\n\n* Referral - Your Name\n\n* Referred by FirstName LastName\n\n* Informational Interview Request - XYZ College Student\n\n* Thank You - Job Title Interview\n\n* Meeting Follow Up - Subject of Meeting\n\n* Meeting Request - Your Name\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5105",
+                "parent_exercise_id": null,
+                "course_id": "87",
+                "name": "Email Writing Exercise - Job Applications",
+                "slug": "english-701__jobapplications_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/jobapplications.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Neeche kuch job descriptions diye gae hain. Aapko in job descriptions ke liye apply karte hue ek email compose karna hai. \n\n\n\nEmail compose karte waqt neeche di gai cheezon ka dhyan rakhein:\n\n1. Sabse pehle job ki requirements aur description ko achhi tarah se padhein aur samjhein. \n\n2. Company ke baare mein jo details di gai hain, unko achhi tarah se samjhein.\n\n3. Email me subject line, greeting, introduction, closing, etc. saare parts ko achhe se likhein.\n<br>\n<br>\n\n\n\nJob One\n<br>\n\n"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-701/images/job1.png",
+                            "text": "Job Application One"
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Job Two\n<br>\n\n"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-701/images/job2.png",
+                            "text": "Job Application Two"
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Job Three\n<br>\n\n"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-701/images/job3.png",
+                            "text": "Job Application Three"
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Job Four\n<br>\n\n"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-701/images/job4.png",
+                            "text": "Job Application Four"
+                        }
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Job Five\n<br>\n\n"
+                    },
+                    {
+                        "type": "image",
+                        "value": {
+                            "url": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/english-701/images/job5.png",
+                            "text": "Job Application Five"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5107",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Tech-Samvaad",
+                "slug": "english-701__Tech_Samvaad/Tech-Samvaad_md",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Tech-Samvaad.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "How to Use\n\nCourse ke is part me kuch aise topics hain jinhe discuss karke aap English conversation and Tech Conversation ki practice kar sakte hain. Ye topics **technology** se related hain and isme use ki gai vocabulary kafi common hai agar aapko Software Engineering mei kuch karna hia. Jab aap is course ko start karenge, toh aap apne conversation partner ke sath in topics par lagbhag 30 minutes tak baat karein. \n\n\n\nYe aapki English ki fluency improve karne me bhi helpful rahega. Agar inme se koi topic ke baare mein aapke paas enough information nahi hai, toh pehle hi thoda extra time lekar thoda padh lein aur fir conversation karein.\n\n\n\nDhyan rakhein, English mein professional conversation karne ke liye ye zaruri hai ki aap fluent ho aur apni day-to-day topics par baat karne mein comfor`tab`le hon. In cheezon ke baare me baat karna shayad apko interesting na lage, par yahan fluency build karna important hai.\n\n\n\nEnjoy!\n\n\n\nSome important tips to help you learn better:\n\n* Maintain a diary with all the new words that you learn\n\n* Revise your vocabulary diary everyday\n\n* Share your vocabulary lists with your friends and revise together\n\n* Listen to `YouTube` videos where they are having conversation about these topics\n\n* **Koi bhi topic padhne ke baad aap apni understanding ko ek comment ke through `English` mei uss topic ke neeche \"comment box\" mei daalein.**\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5112",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Computer_networking",
+                "slug": "english-701__Tech_Samvaad/computer_networking_md",
+                "sequence_num": 401,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/computer_networking.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "jExP6TBZUOk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Computer Networking kya hain ?\n\n\n2. Computer networking kaise kaam karti hain ?\n\n\n3. Type of networking ?\n\n\n4. Navgurukul. ke ander networking ke kuch examples sochiye?\n\n\n\n**Tips**:\n\n\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5113",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "cookies",
+                "slug": "english-701__Tech_Samvaad/cookie_md",
+                "sequence_num": 402,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/cookie.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "s-0Kaj1RIXc"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "d9ZtK9Sb6G4"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\n\n\n\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n\n1.What is cookie?\n\n\n\n\n2.Where are cookies stored?\n\n\n\n\n3.How are cookies used?\n\n\n\n\n\n.Agar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n\n\n**Tips**:\n\n\n\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n\n\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5114",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Data Mining\n\n## Do log ko mil kar sabse pehle yeh videos dekhni ha",
+                "slug": "english-701__Tech_Samvaad/data_mining_md",
+                "sequence_num": 403,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/data_mining.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "youtube",
+                        "value": "dvRZ1VYXMJ0"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n1. Data mining kya hota hai?\n\n2.Data Data mining game mai kaise use hota hai?\n\n3.hHam hHam konsa data use karte hai?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n\n\n**Tips**:\n\n\n\n1 . Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5115",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Database",
+                "slug": "english-701__Tech_Samvaad/database_md",
+                "sequence_num": 404,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/database.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ygajZOV5DXo"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "oEJMJuFD204"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Da`tab`ase kya hota hai?\n\n2. Usme kya data store hota hai?\n\n3. Da`tab`ase se fyada kya hota hai? Kyun hota hai?\n\n4. Da`tab`ase aur `excel` mei kya difference hota hai?\n\n5. Agar aap ko NG ka da`tab`ase bnana hoga to kaise bnayenge?\n\n6. Kitchen ki information aap da`tab`ase mai kaise store karenge?\n\n7. Council ki info aap da`tab`ase mei kaise store karenge?\n\n8. Council 3 months pehle kaun tha, ye kaise pta karenge?\n\n9. Sochiye facebook apne da`tab`ase mei kaise information store karta hoga?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n \n\n[https://searchsqlserver.techtarget.com/definition/da`tab`ase\n](https://searchsqlserver.techtarget.com/definition/database)\n\n \n\n[https://www.guru99.com/introduction-to-da`tab`ase-sql.html\n](https://www.guru99.com/introduction-to-database-sql.html)\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "d8ByCh-BouQ"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "RZlHfbtO2C4"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5116",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Data Science",
+                "slug": "english-701__Tech_Samvaad/Datascience_md",
+                "sequence_num": 405,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Datascience.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "###Introduction\n\n\n\nData Science mein basically data ko lekar bahut saare processes and combination se ek aisa algorithm design kiya jaata hai jisse business organizations ke products ko improve kar sake aur problems ko solve kar sake.\nData Science teen major tech-skills se mil kar bana hai:\n~ Mathematics Expertise\n~ Technology Hacking Skills\n~ Business/Strategy Acumen\n\n\n\n<span><img src=\"http://www.exploringdatascience.com/wp-content/`uploads`/2014/02/The-Data-Science-Clock-v1.1-Simple1.png?width=300\"></span>\n\n\n\nJiski detailed knowledge aap iss link se le sakte hain\n\n\n[https://datajobs.com/what-is-data-science\n](https://datajobs.com/what-is-data-science)\n\n\n##Real-Life Examples\n\n\n\nData Science ka sabse saral udahran yeh hai ki jaise aap Amazon ya Flipkart app/web ka use kar ke alag alag products kharidne ke liye search karte hai, `tab` Amazon/Flipkart ke data scientists aapke dwara search ki gayi \u2018`key`words\u2019 ke hisab se aapko us jaisa products recommend karta hai. Jaisa ki agar apne \u2018Shoes\u2019 search kiye hoge `tab` woh aapke mail ya us mail se judi kisi bhi social medias me \u2018Shoes\u2019 ke advertisements dikhane lagta hai ya recommend karta hai.\n\n\n\nEk dusra example yeh bhi ho sakta hai ki jaise Netflix me aap kaun se series/movies dekh rahe hai aur aapke dekhne ki average duration kitni hai. Us hisab se woh aapko movies recommend karta hai.\n\n\n\nJab aap Facebook use karte hai aur aap kisi tarah ke posts view/like karte hai `tab` Facebook aapke pasand ko pehchan leti hai data science ke dwara aur aage aapko waise hi posts dikhati hai.\n\n\n\n##How Data Science works?\n\n\n\nData Science do type ke data pe kaam karta hai :\n\n\n\n1. Structured Data\n\n2. Unstructured Data\n\n\n\nStructured Data aise data hote hai jo human understandable form me hote hai. Jise hum asani se samajh sake. Jaise kisi `tab`les me information di gayi rehti hai jaha pe rows aur columns ke heading di gyi rehti hai jisse pata chal jata hai ki yeh kis tarah ki data hai.\n\n\n\nUnstructured Data complicated hote hai. Ussey directly yeh nahi pata chalta ki woh data kiske baare me hai.\n\n\n\nYeh video dekh kar data science ke baare me aur janiye:\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "LBzbsclFmHw"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Aap khud soche ki \u2018Uber\u2019 jaisi app me Data Science ka istemal kaise hota hoga?\n\n2. Yeh sochiye ki Election Campaign me Data Science ka use kar sakte hai? Agar kar sakte hai toh kaise?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n**Tips**:\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5117",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Domain Name Server yaani DNS",
+                "slug": "english-701__Tech_Samvaad/dns_md",
+                "sequence_num": 406,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/dns.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XGSUZbWGLGo"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Agar aap ko kahi jaana hai, aur koi aapko raasta batayein, toh kya woh DNS server ki tarah hoga?\n\n2. Kya ek \"Name\" ek hi \"address\" par resolve hoga, hamesha?\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5118",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Domain Names or URL",
+                "slug": "english-701__Tech_Samvaad/domain_md",
+                "sequence_num": 407,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/domain.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XZ7b2BsmFbI"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "BVoxVX__AdU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. NavGurukul ki website ka domain name kya hai?\n\n2. Agar aap apni website banaoge toh uska domain name kya rakhoge?\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5120",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Encoding and Decoding",
+                "slug": "english-701__Tech_Samvaad/Encoding_md",
+                "sequence_num": 408,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Encoding.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "##Encoding and Decoding :-\nAap pahle ye videos dekh lijiye, ishse aapka concept clear ho jayega and aage samajhne me aasani hogi.\n\n\n\nIn English\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "kfPPmmd9CRE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "In Hindi\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "3KBfiOKMaWo"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "###Encoding:-\n\n\n\nEncoding ek aishi prakriya hai jisame daata ko ek aise formet mein badal diya jaata hai jise kee kishi dooshre system dwara upayog kiya ja sakata hai.  Eg.  yadi hamaare paas kuchh daata aur hamen is daata ko kishi doosare system ya computer ko process karane ke liye dena hai to hamen apne daata ko us formet mein hi badalana hoga jise ki yah doosara process ya computer samajhata hai, anyatha yah system hamaare daata ko proses hi nahi kar paayega kyonki is system ko ek vishesh formet mein hi daata chaahie hoga.  encoding ko computer, networking, elwctronics etc. kshetron mein upayog kiya jaata hai.\n\n\n\n<span><img src=\"https://i.ytimg.com/vi/90fME0sT7ko/maxresdefault.jpg\n\"></span>\n\n\n\nAap ish video ko bhi dekh le..\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "90fME0sT7ko"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ya ish link per jaye \n\n\n[http://techhindistuff.blogspot.com/2018/06/what-is-encoding-in-computing-in-hindi.html\n](http://techhindistuff.blogspot.com/2018/06/what-is-encoding-in-computing-in-hindi.html)\n\n\n##Decoding:-\ndicoding `code` ko saada paath ya kishi bhi praaroop mein badalne ki prakriya hai jo baad ki prakriyaon ke liye upayogee hai. decoding encoding ke opposite hai. yah en`code`d deta sanchaar prasaaran aur `files` ko unake original states mein change karata hai.\n\n\n\n<span><img src=\"https://i.ytimg.com/vi/3per0Uq3BnA/maxresdefault.jpg\n\"></span>\n\n\n\nBehtar jaankari ke liye aap ish video ko poora dekhiye..\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "0qTnewnVRLo"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "##Letter coding:-\n\n\n\nIn letter coding type of questions, the real alphabets in a word are replaced be certain other alphabets according to a specific rule to form its `code`. The candidate is required to detect the common rule and answer the questions accordingly.\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "jRHLrfJC6Rk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is encoding?\n\n2. What is decoding?\n\n3. What is the difference between encoding and decoding?\n\n4. What is letter coding?\n\n5. What is encoding and decoding in java?\n\n\n\n\n\n**Tips**:\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5119",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Encryption",
+                "slug": "english-701__Tech_Samvaad/encryption_md",
+                "sequence_num": 409,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/encryption.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "ENCRYPTION KYA HAI ?\n\nEncryption ek tarika hai jisse aap apne data ki safety ko increase karte hai.\nAgar hum simple language me baat kare to ye ek aisa tarika jisme hamara data \nMachinary language me `save` hota jisse sirf wahi device ya software samjh sakta hai \nJiska use karke humne apna data `save` kiya hai.Dusre device ko samjhne ya access karne ke liye. Encrypt data ka `key` use karna padega jiske baare me hum aage padhenge.\n\n\n\nThoda Aur Samjhte hai.\n\nJaise mera kisi social networking ka user name hai Satyam chauhan , to ab vo social \nNetworking software mere user name ko apni machinary language me `save` karega .\nMaan lijiye usne mere username ke letters ko ek letter aage samjh kar `save` kiya jaise usne \n(s ko t, a ko b, t ko u  maanta hai ) to software ki language me mera naam Tbuzbn dibvibo\n`Save` hoga jo sirf wahi software hi samjh sakta hai.\nIsi parkaar sabhi software ka data `save` karne ka tarika alag alag hota hai. .\n\n\n\nENCRYPT\n\nSimple language ko machinary language me convert karna hi encrypt kahlata hai .\nJais ki hamne upar dekha ki software ne Satyam chauhan ko Tbuzbn dibvibo ki form\nConvert kar diya hai ise hi encrypt kahte hai. Is whole process ko encryption kahte hai. \n\n\n\nEncryption ko sahi se samjhne ke liye in videos ko dekhe aur samjhe ki encryption kya hota hai.\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "wMSYlOfS2uE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "tXR1N_D-9UU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n`KEY`\n\n`Key` kya hota hai ,`key` ek tarika hota hai data encrypt karne ka jaise hamne upar bataya tha\nKi software hamare data ko apne machinary language  me convert karne ke liye ek tarika istmaal karta hai jaise (S ko T , a ko b , t ko u \u2026\u2026\u2026)samjh kar `save` karta hai isi tarike ko `key` kahte hai.\n\n\n\nDECRYPTION\n\nDecryption kya hota , kisi bhi machinary language ko simple language me convert karna hi decrypt kahlata hai ,kis bhi machinary language ko decrypt karne ke liye `key` ki jarurat hoti hai \nMatlab vo tarika jiske use karke data ko encrypt kiya gya tha .\n\n\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1.Encryption kya hota hai ?<br>\n2.Encrypt kya hai ?<br>\n3.`Key` kya hota hai ?<br>\n4.Decryption karne kiski jarurat hoti hai ?<br>\n5.Kya Encryption achcha tarika hai data ko safe karne ke liye agar hai to kyu.?<br>\n6.Yadi aapko apne friend ko encryption real life example deke samjhana ho to aap kya\nExample denge?<br>\n\n\n\n**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5122",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Firewall",
+                "slug": "english-701__Tech_Samvaad/firewall_md",
+                "sequence_num": 410,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/firewall.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "KZc1KaE1OKU"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "etlBvkAkhyE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke lngMeta\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\nQuestions\n\n1. What is firewall?\n\n2. What are the advantages of firewall?\n\n3. How can you connect firewall with real life example?\n\n4. Firewall is used only in network or in linux or in any other softwore also?\n\n5. What are types of of firewall?\n\n6. Name some more security software on any network?\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\nTips:\n\n1 . Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5123",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Flowchart",
+                "slug": "english-701__Tech_Samvaad/flowchart_md",
+                "sequence_num": 411,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/flowchart.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Kbjz50ssFBE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. flowchart kya hota hai?\n\n2. flowchart kese work krta h?\n\n3. flowchart aur algorithm mai kya difference hai?\n\n4. NavGurukul ka flowchart kya hai?\n\n\n\nFor more information click on the link-\n\n* .[flowchart](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)\n\n**Tips**:\n1 . Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5121",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Frontend",
+                "slug": "english-701__Tech_Samvaad/Frontend_md",
+                "sequence_num": 412,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Frontend.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "uwnox19xoTk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "j9wWPEmxSZg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "What is Front-end Development?\n\nFront-end development comprises of coding the visual aspects of a software, `application` or website.  Front-end development refers to the \u2018client-side\u2019 of development. The most common languages used in this process are HTML, CSS, and  JavaScript. \n\n\n\nIska mtlb hai ki Front-end developmemt me hum software ya program ke drshy pahaluon (visual aspects) ko banate hai. Jo sabse zyada common languages isme use hoti hai vo hai HTML, CSS aur JavaScript. Is me hum \u2018client-side\u2019 par kaam karte hai.\n\n\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Front-end Kya hota hai?\n\n2. Front me konsi programming languages use hoti hai?\n\n3. Software me Front-end ki kya zarurat hai?\n\n\n\nAgar aapko Front-end development ke bare me detail me padna hai to aap neeche diye gaye links pe ja sakte hai :\n\n\n\n<span><a href=\"https://en.wikipedia.org/wiki/Front-end_web_development\">Yaha click kare</a></span><br><br>\n<span><a href=\"https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start\">Yaha Click kare</a></span>\n\n\n\n**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5125",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "What is Hacking",
+                "slug": "english-701__Tech_Samvaad/hacking_md",
+                "sequence_num": 413,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/hacking.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "mOiMU9fIEwk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is hacking and who are hackers? \n\n\n2. what are the types of hacking? \n\n\n3. what are the differecnce between black hat, grey hat, and white hat? \n\n\n4. can anyone in navgurukul hack? \n\n\n5. what are the basic ports in hacking? \n\n\n6. Is hacking a legel and is it important? \n\n\n\nFor more information click on the link-\n\n* .[About hacking](https://www.guru99.com/what-is-hacking-an-introduction.html)\n\nTips:\n\n1.Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue.\n\n\n\n2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5124",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Hosting",
+                "slug": "english-701__Tech_Samvaad/Hosting_md",
+                "sequence_num": 414,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Hosting.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Hosting kya hai ?\n\nInternet me aapke blog ya website ke liye ek jagah ki jarurat hoti hai jise hum Internet ki language me web hosting kahte hai. Jab hum hum internet me hosting khareedte hai to hume ek space ( jagah ) milti hai jaha humara blogs or website active rahta hai aur ish jagah ko hum ek naam dete hai jishse hum hamare webste ya blogs ko dekhte hai, ushe domain kahte hai.\n\n\n\n{ In simple and easy words - \"web hosting provides a means to access your website `files` to a storage space and access to all people\". }\n\n\n\n[ seedhe aur aasaan shabdon mein \u2013\u201cweb hosting aapakee website `files` ko \u2018storage space\u2019 yaani rahane kee jagah aur \u2018access\u2019 yaani sab logon tak pahunchane ka jariya pradaan karatee hai \u201c| ]\n\n\n\n\nEg:- jish tarah aapko dharti per rahne ke liye ek jagah ya plot ki jarurat hoti hai, ushi tarah Internet me apke blogs ko bhi ek jagah ki jarurat hoti hai, jishe hum web hosting kahte hai.\nIshi ke andar hamare saare posts, photos, videos, `files` etc. `save` rahta hai, and ye 24 hours active rahta hai jishse hamara blogs haamesha online rahe.\n\n\n\nHosting aur domain me kya difference hoti hai:-\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "FUXzPVVLtFA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "How Web Hosting works (Web hosting \u0915\u0948\u0938\u0947 \u0915\u093e\u0930\u094d\u092f \u0915\u0930\u0924\u0940 \u0939\u0948?)\n\nHosting service aapki website `files` ko web service per store kar deti hai. Jab koi bhi  aapki website tak pahuchne ke liye ushka address ya URL apne browsser me likhta hai, `tab` ye web serviers ush customer ke request ko accept karte huye ushke computer tak aapki `files` ki ek copy pahucha deti hai , jishke result me customer ke computer per aapki website open ho jaati hai.\n\n\n\n<span><img src=\"https://www.znetlive.com/blog/wp-content/`uploads`/2016/01/Web-hosting-ki-karya-pranali.jpg\"></span>\n\n\n\nTypes of Hosting :\n\n*Web industry me different types ke web service available hai.-*\n\n\n\n1. Shared Server hosting\n\n2. Virtual Private Server (VPS) hosting\n\n3. Dedicated Server hosting\n\n\n\nShared Server hosting:-\n\nYe hosting ek hostal mein rahane ke saman hai.  jis prakaar hostal mein aap bahuton ke sang apane rahane ka sthaan baantate hain, ushi  prakaar is hosting prakaar ke antargat ek physichal server par bahut saaree websites ki mezabaanee kee jaatee hai. shared server in sabhi websites  ko web space aur CPU, RAM  jaise sansaadhano ko ek saath istamaal karane kee suvidha upalabdh karaata hain jisake parinaamasvaroop ish hosting prakaar kee laagat baki dono  prakaar ki hostings se kam hotee hai.\n\n\n\nVirtual Private Server (VPS) hosting:-\n\nYe hosting ek flate mein rahane ke saman hai, jahaan aap bhale hee aap apana main get sabake sang share kare par apane ghar par ek aur extra gate hone se aapako apane selfnity (privecy) bhi praapt hoti hai.\n\n\n\nVPS hosting virtualization takaneek ka prayog karati hai, jisake antargat ek physical server ko virtually different server mein divide kiya jaata hai, parinaamavash ek hee server par hote hue bhee baki websites aapake hisse ke web space aur sansaadhano ka upayog nahi kar paatee hain. ish kaaran ye hosting aapako privecy  aur suraksha (protection)  jaise laabh pradaan karati hai.\n\n\n\nBehtar jankaari ke liye aap ye videos dekhe, ishse aapka basic concept clear ho jayega.\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Kig3m3QqM7U"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "0hGK7qiQ6WA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Aap ish link per jaker inke baare me jyada jaankari le sakte hai.\n\n[https://www.catchhow.com/web-hosting-kya-hai/\n](https://www.catchhow.com/web-hosting-kya-hai/)\n\n\nAb aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Hosting kya hai ?\n\n2. Hosting kitne prakar ke hote hai?\n\n3. Hosting and domain me kya difference hai?\n\n4. Hosting kyu jaroori hai?\n\n5. Agar aap apne website ko hosting nahi karenge to kya hoga?\n\n\n\n\n**Tips**:\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5126",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "What is IOT",
+                "slug": "english-701__Tech_Samvaad/internet_of_things_md",
+                "sequence_num": 415,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/internet_of_things.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\nIntroduction of IOT\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Ciq8qrS7VLY"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "What is IOT\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "7uELZkSLLDE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "sOVXQ8Eo8rA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. IOT kya hai?\n\n2. IOT ka real life example dekar uspar discussion kariye.\n\n3. IOT ke `application` kay hai?\n\n4. IOT infrasture aur samrt city par kai asar karenga example se samjhe?\n\n5. IOT internet se kaise relate karat hai?\n\n6. Industrial IOT ke bare mai discuss karen?\n\n7. Sensor ka IOT mai kya role hai?\n\n8. Medical field main IOT ka kya role hai?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5127",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "intranet",
+                "slug": "english-701__Tech_Samvaad/intranet_md",
+                "sequence_num": 416,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/intranet.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "qZYE-GmKW_c&t=19s"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1.Intranet aur internet mai anter kya hai?\n\n\n\n2.navgurukul mai Intranet ka use hotha hai ya nahi?\n\n\n\n3.Intranet kyu jharuri hnai?\n\n\n\n4.Intranet ka kya kam hai?\n\n\n\n5.Intranet kya hai?\n\n\n\nTips:\n\n1.Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue.\n\n\n\n2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n\n\n[You can know more about this topic on this link\n](https://en.wikipedia.org/wiki/Internet)\n\n\n(\n\n[https://www.britannica.com/technology/Internet\n](https://www.britannica.com/technology/Internet)\n)\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "5128",
+                "parent_exercise_id": "5107",
+                "course_id": "87",
+                "name": "Keyword",
+                "slug": "english-701__Tech_Samvaad/keyword_md",
+                "sequence_num": 418,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/keyword.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Yeh video apko `Key`word ki imformation degi:-\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "j4oJfJ-HYMk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "RDlExc8KOHI"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\n\nJb apka discussion ho jaye toh inn questions kai answer bhi discuss kare:-\n\n\n\n1.`Key`word kya hote hai ?\n\n\n\n2.`Key`word ka kya use hota hai?\n\n\n\n3.`Key`word hume kese help krta hai?\n\n\n\n4.`Key`word ke benifit kya hai?\n\n\n\n5.`Python` mai kitne `key`word hai\n\n\n\n(\n\n[https://www.kids`code`cs.com/`key`words/\n](https://www.kidscodecs.com/keywords/)\n)\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}

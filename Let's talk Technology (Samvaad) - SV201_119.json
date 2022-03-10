@@ -1,0 +1,960 @@
+{
+    "course": {
+        "id": "119",
+        "name": "Let's talk Technology (Samvaad) - SV201",
+        "logo": "https://bit.ly/2PzSPkJ",
+        "notes": null,
+        "days_to_complete": null,
+        "short_description": "Let's talk on various technology topics to improve our understanding of Technology as well as English",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4528",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "How to Use",
+                "slug": "samvaad-tech-201__howtouse_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/howtouse.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "How to Use\n\nIs course me kuch aise topics hain jinhe discuss karke aap English conversation and Tech Conversation ki practice kar sakte hain. Ye topics **technology** se related hain and isme use ki gai vocabulary kafi common hai agar aapko Software Engineering mei kuch karna hia. Jab aap is course ko start karenge, toh aap apne conversation partner ke sath in topics par lagbhag 30 minutes tak baat karein. \n\n\n\nYe aapki English ki fluency improve karne me bhi helpful rahega. Agar inme se koi topic ke baare mein aapke paas enough information nahi hai, toh pehle hi thoda extra time lekar thoda padh lein aur fir conversation karein.\n\n\n\nDhyan rakhein, English mein professional conversation karne ke liye ye zaruri hai ki aap fluent ho aur apni day-to-day topics par baat karne mein comfor`tab`le hon. In cheezon ke baare me baat karna shayad apko interesting na lage, par yahan fluency build karna important hai.\n\n\n\nEnjoy!\n\n\n\nSome important tips to help you learn better:\n\n* Maintain a diary with all the new words that you learn\n\n* Revise your vocabulary diary everyday\n\n* Share your vocabulary lists with your friends and revise together\n\n* Listen to `YouTube` videos where they are having conversation about these topics\n\n* **Koi bhi topic padhne ke baad aap apni understanding ko ek comment ke through `English` mei uss topic ke neeche \"comment box\" mei daalein.**\n\n\n\nCourse start karnein se pehle, yeh simple video dekhein! :)\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "F9GujgK0y2M"
+                    }
+                ]
+            },
+            {
+                "id": "4529",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "error(404)",
+                "slug": "samvaad-tech-201__error(404)_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/error(404).md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "You will discuss this topic with your partner for 30 min and see what you understand from this:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ImEQFprFKWA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "[Read Here\n](http://alistapart.com/article/amoreuseful404)\n\n\n#What is `error` 404-\nThe HTTP 404, 404 Not Found, and 404 `error` message is a Hypertext Transfer Protocol (HTTP) standard response `code`, in computer network communications, to indicate that the client was able to communicate with a given server, but the server could not find what was requested.\n\n\n\nThe website hosting server will typically generate a \"404 Not Found\" web page when a user attempts to follow a broken or dead link; hence the 404 `error` is one of the most recognizable `errors` encountered on the World Wide Web.\n\n\n\n\nKhow more about `error` 404-\n\nWhen communicating via HTTP, a server is required to respond to a request, such as a web browser request for a web page, with a numeric response `code` and an optional, mandatory, or disallowed (based upon the status `code`) message. In the `code` 404, the first digit indicates a client `error`, such as a mistyped Uniform Resource Locator (URL). The following two digits indicate the specific `error` encountered. HTTP's use of three-digit `codes` is similar to the use of such `codes` in earlier protocols such as FTP and NNTP.\n\n\n\nAt the HTTP level, a 404 response `code` is followed by a human-readable \"reason phrase\". The HTTP specification suggests the phrase \"Not Found\"[1] and many web servers by default issue an HTML page that includes both the 404 `code` and the \"Not Found\" phrase.\n\n\n\nA 404 `error` is often returned when pages have been moved or deleted. In the first case, it is better to employ URL mapping or URL redirection by returning a 301 Moved Permanently response, which can be configured in most server configuration `files`, or through URL rewriting; in the second case, a 410 Gone should be returned. Because these two options require special server configuration, most websites do not make use of them.\n\n\n\n404 `errors` should not be confused with DNS `errors`, which appear when the given URL refers to a server name that does not exist. A 404 `error` indicates that the server itself was found, but that the server was not able to retrieve the requested page.\n\n\n\nNow we will discuss the questions that are given below:\n\nQuestions:\n\n1. Why do we get a 404 for `error`?\n\n2. try to find how can you solve that `error`.\n\n3. how is HTTP related to 404 `error`?\n\n4. how many `errors` can you find like this discuss with your partner.\n\n5. Discuss more option given more to know different types of `errors`\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4530",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Algorithm",
+                "slug": "samvaad-tech-201__Algorithm_md",
+                "sequence_num": 200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/Algorithm.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "**First you have to watch this video**\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**Algorithm**\n\n\n\nAn algorithm is a fancy to-do list for a computer. Algorithms take in zero or more `inputs` and give back one or more `outputs`.\n\n\n\nA recipe is a good example of an algorithm because it tells you what you need to do step by step. It takes `inputs` (ingredients) and produces an `output` (the completed dish).\n\n\n\nThe words 'algorithm' and 'algorism' come from the name of a Persian mathematician called Al-Khw\u0101rizm\u012b (Persian: \u062e\u0648\u0627\u0631\u0632\u0645\u06cc\u200e\u200e, c. 780\u2013850).\n\n\n\nAn algorithm is a sequence of unambiguous instructions for solving a problem, i.e., for obtaining a required `output` for any legitimate(accep`tab`le) `input` in a finite amount of time [Levitin, p. 3]. ... Indeed, algorithms are commonly expressed either in a programming language like Pascal or C++, or a pseudo`code`.\n\n\n\nTo write a computer program, you have to tell the computer, step by step, exactly what you want it to do. The computer then \"`executes`\" the program, following each step mechanically, to accomplish the end goal. ... That's where computer algorithms come in. The algorithm is the basic technique used to get the job done.\n\n\n\nA good algorithm should produce the correct `outputs` for any set of legal `inputs`. A good algorithm should `execute` efficiently with the fewest number of steps as possible. A good algorithm should be designed in such a way that others will be able to understand it and modify it to specify solutions to additional problems.\n\n\n\nThe characteristics of a good algorithm are:\n\n\n\nPrecision \u2013 the steps are precisely stated(defined).\n\n\n\nUniqueness \u2013 results of each step are uniquely definedand only depend on the `input` and the result of the precedingsteps.\n\n\n\nFiniteness \u2013 the algorithm stops after a finite number ofinstructions are `execute`d.\n\n\n\n`Input` \u2013 the algorithm receives `input`.\n\n\n\nHere I've put together a little list, in no particular order.\n\n\n\nMerge Sort, Quick Sort and Heap Sort. ...\n\n\n\nFourier Transform and Fast Fourier Transform. ...\n\n\n\nDijkstra's algorithm. ...\n\n\n\nRSA algorithm. ...\n\n\n\nSecure Hash Algorithm. ...\n\n\n\n`Integer` factorization. ...\n\n\n\nLink Analysis. ...\n\n\n\nProportional Integral\n\n\n\n**If you want to know more about algorithm you can watch these videos.**\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "FbYzBWdhMb0"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vOEN65nm4YU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**Now you have to disccuss about these topics at least 30min in pairs. **\n\n\n\n\n**Remmember these points also while disccussion.**\n\n\n\n1. What is algorithm?\n\n\n2. What are the types of algorithm?\n\n\n3. Is a recipe an algorithm? Discuss in detail.\n\n\n4. What is the use of algorithm?\n\n\n5. What is the sequence of algorithm?\n\n\n6. What are the advantages of algorithm?\n\n\n\n\n\n\n\n**Tips:**\n\n\n\n1 - You can on subtitles/captions while watching `youtube` video.\n\n\n\n2 -You can increase or decrease speed of the video if you face any difficult.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4531",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Lets_learn_about_PPT",
+                "slug": "samvaad-tech-201__Lets_learn_about_PPT_md",
+                "sequence_num": 300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/Lets_learn_about_PPT.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "First let us learn what is a PPT:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "xeqTnHO66SU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Now you can discuss with your friends:\n\nNow we will learn how to do a PPT:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Vx4yLPh2nNk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Let us see an example:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vSuQQgiimy8"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Since you have learned about PPt we will try and make a PPT `file` about any topic that you like:\n\nAnd let us answer few questions and see how we understood. Come on lets go\n\n1. Think you have a project that need to presented in front of all the staffs how would you present?\n\n2. How easy is to understand a project through PPT?\n\n3. Is PPT necessary in a project? if yes,why?\n\n4. What did you learn in the example video?\n\n5. Have you ever done any PPT before?\n\n\n\n\n\nTips:\n\n1.You can use subtitle/caption that is provided in `youtube` settings of the video.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4532",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Operating Systems",
+                "slug": "samvaad-tech-201__operating_system_md",
+                "sequence_num": 400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/operating_system.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "pTdSs8kQqSA"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "JtepGNJyvyM"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "AkFi90lZmXA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. `Operating System` yaani `OS` kya hota hai?\n\n2. Agar hum ek computer hote toh hamara `Operating System` kya hota?\n\n3. Aapke laptop mei kaunsa `OS` hai?\n\n4. NavGurukul ka `OS` kya hoga?\n\n5. NavGurukul ke `OS` mei `Hardware` kya hoga, aur `Software` kya hoga?\n\n6. Kya `OS` ko bhi kisi `programmer` ne likha hoga?\n\n7. Kya `OS` kya bhi `code` hoga?\n\n8. Jab hum bolte hai - `laptop` hang kar gaya hai, toh iska kya matlab hota hai?\n\n9. Kya ek simple phone, jo `smartphone` nahi hai, kya usmei bhi `OS` hota hai?\n\n10. Kya aap ko lagta hai, ki ek samay hoga jab `OS` itne advanced na ho, jitne aaj ho.\n\n11. Sochiye pehla windows `OS` kaisa dikhta hoga?\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "26QPDBe-NB8"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4533",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Database",
+                "slug": "samvaad-tech-201__database_md",
+                "sequence_num": 500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/database.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ygajZOV5DXo"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "oEJMJuFD204"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Da`tab`ase kya hota hai?\n\n2. Usme kya data store hota hai?\n\n3. Da`tab`ase se fyada kya hota hai? Kyun hota hai?\n\n4. Da`tab`ase aur `excel` mei kya difference hota hai?\n\n5. Agar aap ko NG ka da`tab`ase bnana hoga to kaise bnayenge?\n\n6. Kitchen ki information aap da`tab`ase mai kaise store karenge?\n\n7. Council ki info aap da`tab`ase mei kaise store karenge?\n\n8. Council 3 months pehle kaun tha, ye kaise pta karenge?\n\n9. Sochiye facebook apne da`tab`ase mei kaise information store karta hoga?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "d8ByCh-BouQ"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "RZlHfbtO2C4"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4534",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Understanding Linux",
+                "slug": "samvaad-tech-201__linux_md",
+                "sequence_num": 600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/linux.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "IslerGR3Ptc"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "xRX6ZI_P-LA&vl=en"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\n\nAb aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n1. Agr hum navgurukul ke members or students ke bich diffrentciate kare to kon unix or kon linux hoga?\n\n2. Linux mai or kon se functionality add krna chahiy or uske basis mai agr navgurukul linux hai to yaha kya or add kr skte hai?\n\n3. Linux or unix ek dusre se kaise relate krte hai?\n\n4. Linux ko linux kiu kaha jata hai? \n\n5. Open source license kya hota hai?\n\n6. Linux or window os mai differentiate karo?\n\n7. Linux kiu use kerte hai?\n\n8. Linux kernal kya hota hai?\n\n\n\nTips:\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4535",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "virus_worm",
+                "slug": "samvaad-tech-201__virus_worm_md",
+                "sequence_num": 700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/virus_worm.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "##Virus\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "y8a3QoTg4VQ"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "1.what is virus?\n2.what is worm?\n3.what is trojan horse?\n4.what is computer virus?\n\n\n\n##Virus\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "2vYfimPe9I8"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "1.virus kya hota hai?\n2.virus kitne type ke hota hai?\n3.virus kaha se aate hai?\n4.trojan kya hota hai?\n5.worm kya hota hai?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4536",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Binary code",
+                "slug": "samvaad-tech-201__binary_code_md",
+                "sequence_num": 800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/binary_code.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "K7pN1rY97es"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "oQKOTdh7sHs"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "RP-h8Xr597E"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Hamara computer kon si language samajhta hai?\n\n2. Agar hum computer hote to kesi language hamare liye smajhna aasan hota?\n\n3. Binary language kya hoti hai?\n\n4. 0 aur 1 ka kya matlab hai. 0 aur 1 kya represent karte hai?\n\n5. Pata lagane ki koshish kijiye ki binary number system kese kam karta hai?\n\n\n\n\n**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4537",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Bot",
+                "slug": "samvaad-tech-201__bot_file_md",
+                "sequence_num": 900,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/bot_file.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "youtube",
+                        "value": "unc5JMWNQag"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n1. What is bot?\n\n\n2. How does it work?\n\n\n\n3.Bot kitne type ke hote hai?\n\n\n\n4.cricket team me bot kise bolenge?\n\n\n\n5.Navgurukul me bot kon ho sakta hai?\n\n\n\n6.Bot ke kya kya fayade hai?\n\n\n\n7.Social Media me bot kyu likha hota hai?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "LFE1gLdgWYQ"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "**Tips**: \n\n\n\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue.\n\n\n\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4538",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "server",
+                "slug": "samvaad-tech-201__server_md",
+                "sequence_num": 1000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/server.md",
+                "solution": null,
+                "content": []
+            },
+            {
+                "id": "4539",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Search Engine",
+                "slug": "samvaad-tech-201__search_engine_md",
+                "sequence_num": 1100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/search_engine.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "F5UGxRT6UNQ"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Itn7VqAsCEY"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\n##Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1.Search Engine kya hai?\n2.Navgurukul ka search engine kya hai?\n3.kya hum ajj jitna search engine ko use karte hai,kya aage bhi(in future) utna hi use karege?\n4.Search engine kam kaisa karta hai? with an example.\n5.Kya search engine par sahi answer mil sakte hai?\n\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n**Tips**:\n1 . Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4540",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Frontend",
+                "slug": "samvaad-tech-201__Frontend_md",
+                "sequence_num": 1200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/Frontend.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "uwnox19xoTk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "j9wWPEmxSZg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "What is Front-end Development?\n\nFront-end development comprises of coding the visual aspects of a software, `application` or website.  Front-end development refers to the \u2018client-side\u2019 of development. The most common languages used in this process are HTML, CSS, and  JavaScript. \n\n\n\nIska mtlb hai ki Front-end developmemt me hum software ya program ke drshy pahaluon (visual aspects) ko banate hai. Jo sabse zyada common languages isme use hoti hai vo hai HTML, CSS aur JavaScript. Is me hum \u2018client-side\u2019 par kaam karte hai.\n\n\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. Front-end Kya hota hai?\n\n2. Front me konsi programming languages use hoti hai?\n\n3. Software me Front-end ki kya zarurat hai?\n\n\n\nAgar aapko Front-end development ke bare me detail me padna hai to aap neeche diye gaye links pe ja sakte hai :\n\n\n\n<span><a href=\"https://en.wikipedia.org/wiki/Front-end_web_development\">Yaha click kare</a></span><br><br>\n<span><a href=\"https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start\">Yaha Click kare</a></span>\n\n\n\n**Tips**:\n1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4547",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Domain Names or URL",
+                "slug": "samvaad-tech-201__domain_md",
+                "sequence_num": 1300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/domain.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XZ7b2BsmFbI"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "BVoxVX__AdU"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "\n\nAb aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. NavGurukul ki website ka domain name kya hai?\n\n2. Agar aap apni website banaoge toh uska domain name kya rakhoge?\n\n\n\nAgar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4541",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "github",
+                "slug": "samvaad-tech-201__github_md",
+                "sequence_num": 1400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/github.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Github\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4542",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "What is Hacking",
+                "slug": "samvaad-tech-201__hacking_md",
+                "sequence_num": 1500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/hacking.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "mOiMU9fIEwk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is hacking and who are hackers? \n\n\n2. what are the types of hacking? \n\n\n3. what are the differecnce between black hat, grey hat, and white hat? \n\n\n4. can anyone in navgurukul hack? \n\n\n5. what are the basic ports in hacking? \n\n\n6. Is hacking a legel and is it important? \n\n\n\nTips:\n\n1.Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue.\n\n\n\n2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4543",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Keyword",
+                "slug": "samvaad-tech-201__keyword_md",
+                "sequence_num": 1600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/keyword.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Yeh video apko `Key`word ki imformation degi:-\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "j4oJfJ-HYMk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "RDlExc8KOHI"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\n\nJb apka discussion ho jaye toh inn questions kai answer bhi discuss kare:-\n\n\n\n1.`Key`word kya hote hai ?\n\n\n\n2.`Key`word ka kya use hota hai?\n\n\n\n3.`Key`word hume kese help krta hai?\n\n\n\n4.`Key`word ke benifit kya hai?\n\n\n\n5.`Python` mai kitne `key`word hai\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4555",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "name:Browser",
+                "slug": "samvaad-tech-201__browser_md",
+                "sequence_num": 1700,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/browser.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "LIaKxPZ9TP8"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "BrXPcaRlBqo"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\n\n\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n1.Browser kya hai?\n\n\n\n2.Browser ka kyu use karte hai?\n\n\n\n3.kya Browser bina internet ka chal skta hai.?\n\n\n\n4.Avi ke time me kon kon sa Browser least model ka hai?  \n\n\n\n5.Browser me web Browser page kya hai.?\n\n\n\n\n Agar aap ko aur thoda samajhna hai, toh yeh dekhiye\n\n\n \n**Tips**:\n\n\n\n1. Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n\n\n2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4544",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "name:Open Source",
+                "slug": "samvaad-tech-201__open_source_md",
+                "sequence_num": 1800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/open_source.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Aap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "XuK88lawLWg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei baat karni hai.\n\nDiscussion karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\nYeh question open source se related hai:-\n\n\n\n1.open source kya hai?\n\n\n\n2.source `code` kya hota hai?\n\n\n\n3.open source kis type ka software hai?\n\n\n\n**Tips**:\n\n\n\n1.Aap subtitles/captions on kar sakte hai,`YouTube` video dekhte hue\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4553",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "Flowchart",
+                "slug": "samvaad-tech-201__flowchart_md",
+                "sequence_num": 1900,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/flowchart.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Do log ko mil kar sabse pehle yeh videos dekhni hai\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Kbjz50ssFBE"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. flowchart kya hota hai?\n\n2. flowchart kese work krta h?\n\n3. flowchart aur algorithm mai kya difference hai?\n\n4. NavGurukul ka flowchart kya hai?\n\n\n\n\n**Tips**:\n1 . Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4550",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "name:rgb",
+                "slug": "samvaad-tech-201__rgb_md",
+                "sequence_num": 2000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/rgb.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Ap ye videos dekhkr rgb ko easily smjh skte he\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "GEoQDPfRNOk&feature=youtu.be"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "K9DVg2OhXFQ&feature=youtu.be"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\nyha kuch questions he in par ap apne partner ke sath english me discuss kre jisse apke concept clear hoske.\n\n\n\n1. what is RGB?\n\n2. white colour ke liye kitna red,kitna green and kitna blue colour lagega?\n\n3. hum 1 screen par sare colour kese dekh skte he.?\n\n4. green and red ke combition se konsa colour bnega?\n\n5. Do you think that after cracking the screen of mobile,computer,laptop etc rgb will show?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4551",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "mbps_and_kbps",
+                "slug": "samvaad-tech-201__mbps_and_kbps_md",
+                "sequence_num": 2100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/mbps_and_kbps.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "mbps / kbps internet speed:\n\nKbps stands for \"kilobits per second,\" while Mbps stands for \"megabits per second.\" Because one megabit is equal to 1,000 kilobits, 1 Mbps is 1000 times faster than 1 Kbps. Important: The lowercase \"b\" in Kbps and Mbps means \"bit,\" not byte.\nKbps and Mbps define measurement units for the speed engaged in data transfers. Speed is calculated in terms of bits per second. A bit is the smallest unit of data in a computer and it is implemented with the current electronic technology. Bit is actually a short term to refer to a binary digit. It can either hold 0 or 1. One represents an on state and zero represents an off state.\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "hdIhkwJgh7g"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "*Now you have to talk in english for 30 minute.*\nWhile talking try to observe how many new teck words you learned and used.\n\n\n\nif there is any word like which your partner and and you don't know than try to learn that words too by understanding.\n\n\n\nWhile doing discussion you can think for this points:\n\n1. In NavGurgurukul differentiate between students and mentor who is kbps and mbps?\n\n2. Who is mbps and kbps in NavGurukul?\n\n3. What is 500 kbps in MB?\n\n4. Why people get confiused in mbps and kbps?\n\n5. What is a good Internet speed?\n\n6. Kbps or mbps is bigger?\n\n\n\nIf you want to understand than watch this vedio:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "E9o2FlF1P5A"
+                    }
+                ]
+            },
+            {
+                "id": "4558",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "what_is_programming",
+                "slug": "samvaad-tech-201__what_is_programming_md",
+                "sequence_num": 2200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/what_is_programming.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "```\nngMeta\nname: What is Programming/coding?\n```\nWhat is Programming/Coding?\n\n\n\nComputer programming, also known as coding ,is the process of creating software .But what exactly is softwareand how it made?\n\n\n\nTo know more about programming you can check out this link..\n\n\n[https://en.wikiversity.org/wiki/What_is_%22programming%22\n](https://en.wikiversity.org/wiki/What_is_%22programming%22)\n\n\nWatch this video for better understanding.\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "cKhVupvyhKk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "gqJ33yLHozYss"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "After watching the videos discuss with your partner;\n\n\n\n1. What is Programming/Coding?\n\n2. What do you think about programming?\n\n3. What is the father of programming?\n\n4. give some daily life examples , where programming is used?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4557",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "name:flowchart_new\ncompletion method: manual",
+                "slug": "samvaad-tech-201__flowchart_new_md",
+                "sequence_num": 2300,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/flowchart_new.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "**You have to watch this video in a pair?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "iJmcgQRk048"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "DF2XAc07eI0"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "now you have to the discussion to 30 minutes about the watched video.\n\nDuring Discussion you have to observe that how much used technology word.\n\n\n\nIf your partner telling new words during the discussion you have now about this word and try to it understand.\n\n\n\nduring this discussion, you can think about these points.\n\n\n\n\n1. What is a flowchart and how does it work?\n\n\n\n\n2.why people use flow chart? and where?\n\n\n\n\n3.If people do not use flowchart and what will happen after that any work?\n\n\n\n\n4. How many symbols to make flowchart write these name?\n\n\n\n\n5.write a paragraph which is how to work in the flowchart on per symbol with commands and what and how are doing all commands?\n\n\n\n\n6. Make a flowchart about campus hunt of navGurukul.\n\n\n\n\nIf you want batter understading you can watch it.\n\n\n\n\n**Tips**:\n\n\n\n1 - You can on the subtitle / caption while watching `youtube` video\n\n\n\n2 - You can do slow and fast during watching video that you can batter understand.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4556",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "ms-office",
+                "slug": "samvaad-tech-201__ms-office_md",
+                "sequence_num": 2400,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/ms-office.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Microsoft Office (Ms Office)\n\nWatch this video to understand this topic.\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "shaXOcxm8Wk"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": " \n\nFor you're farther understand you can visit this link.\n\n\n\n\n\n[Microsoft Office - Wiki\n](https://en.wikipedia.org/wiki/Microsoft_Office)\n\n\n\nQuestions:\n\nAnswer these questions to check what you have understood.\n\n1.  What is Ms Office?\n\n2.  Name six `applications` of Ms Office?\n\n3.  Which Operating System supports Ms Office?\n\n4.  Does we need to buy Ms Office?\n\n5.  For maintaining Notes which Ms Office `application` we need go\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4546",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "android_kya_hai",
+                "slug": "samvaad-tech-201__android_kya_hai_md",
+                "sequence_num": 2500,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/android_kya_hai.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "what is Android?\n\nAndroid is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software and designed primarily for touchscreen mobile devices such as smartphones and `tab`lets\n\n\n\nHow does an android app work?\n\nAndroid uses Linux for its device drivers, memory management, process management, and networking. ... Dex `files` are more compact and efficient than class `files`, an important consideration for the limited memory and battery powered devices that Android targets. The core Java libraries are also part of the Android runtime.\n\n\n\nyeh videos dekhnai :\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "TTpe2lOGF4g"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "KitoxUB11go"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is Android?\n\n2. Is android is open-source platform or not?\n\n3. Which language is basically used to write android's `code`?\n\n4. Can you tell some features of android?\n\n5. Android is based on which os?\n\n6. Name some of android `application`?\n\n\n\nFor more information click on `Android` link-\n\n* [Android](https://www.javatpoint.com/android-what-where-and-why)\n\nTips: 1 - Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue \n      2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4545",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "facebook",
+                "slug": "samvaad-tech-201__facebook_md",
+                "sequence_num": 2600,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/facebook.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Facebook\n\nFacebook, Inc. is an American online social media and social networking service company based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo `Save`rin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.\n\n\n \n \nHow Does Facebook Work? \u201dThe Front End\"\n\nFacebook uses a variety of services, tools, and programming languages to make up its core infrastructure. At the front end, their servers run a LAMP (Linux, Apache, MySQL, and PHP) stack with Memcache. \n\n\n \n \nHow Does Facebook Work? \"The Back End\"\n\nFacebook\u2019s backend services are written in a variety of different programming languages including C++, Java, `Python`, and Erlang. Their philosophy for the creation of services is as follows:\n\n\n\n1. Create a service if needed\n\n2. Create a framework/toolset for easier creation of services\n\n3. Use the right programming language for the task\n\n\n\nAap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "5XGACRc1fig"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ocz6wfv3ijc"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is the technology used in facebook?\n\n2. What software does facebook used?\n\n3. What is an API facebook?\n\n4. What is a facebook SDK?\n\n5. When facebook is started how many people works there?\n\n6. How facebook is `code`d?\n\n7. If you are working in facebook as a developer what chenges you want to make or what features you want to add?\n\n8. Suppose you want to make your own app then what features you want in your app?\n\n\n\n[You can know more about this topic\n](https://www.lifewire.com/what-is-facebook-3486391)\n\n[You can know more about this topic\n](https://en.wikipedia.org/wiki/Facebook)\n"
+                    }
+                ]
+            },
+            {
+                "id": "4554",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "downloading",
+                "slug": "samvaad-tech-201__downloading_md",
+                "sequence_num": 2800,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/downloading.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Downloading\n\n\n\nDo log ko mil kar sabse pehle yeh videos dekhni hai\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "F69kWUbi9Xk"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "GLqsY0Oxtgo"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "kfqGio32jLA"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Now you have to discussion 30 minutes about videos.\n\nDuring Discussion you have to observe that how much used technology word.\n\n\n\n\n\nIf your partner is speaking new words during discussion. you have to understand this word.\n\n\n\n\n\nDuring this discussion you can think about these points.\n\n\n\n\n\n1.What  Is Downloading?\n\n\n\n\n2.What Is IDM? how to use IDM during downloading videos?\n\n\n\n\n3.What Is ISP? how to work in mobile?\n\n\n\n\n4.How Many Type of  ISP? and which ISP use you on your mobile?\n\n\n\n\n5.what is Different between Downloading and `Upload`ing?\n\n\n\n\n6.Is IDM in your laptop?\n\n\n\n\n\nIf you want better understand you can watch it.\n\n\n\nTips:\n\n\n\n1 - You can on the subtitles  while watching `youtube` videos\n\n\n\n2 - You can do slow and fast during watching videos that you can better understand.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4552",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "antivirus",
+                "slug": "samvaad-tech-201__antivirus_md",
+                "sequence_num": 2900,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/antivirus.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "youtube",
+                        "value": "1_rXO2Es5B8"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\nquestion\n\n1) what is antivirus ?\n\n2) How antivirus work ?\n\n3) How many types of antivirus ?Which is?\n\n4) what is evading antivirus ? explain ?\n\n5) Explain about Antivirus-singnature based detection?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4548",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "google",
+                "slug": "samvaad-tech-201__google_md",
+                "sequence_num": 3000,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/google.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Google\n\n Google is a search engine that started development in 1996 by Sergey Brin and Larry Page as a research project at Stanford University to find `files` on the Internet.\n Google is also a multinational company.You can search information on internet using the search engine google. \n\n\n \n \nList of Google Product\n\n There are many products launch by google some of them are\n 1.Gmail: Google provides a specific mobile `application` to access Gmail messages.\n 2.Google Map: view maps.\n 3.Google+ :Social network.\n 4.Google Drive: In google drive we can store large amount of data, whenever you need acess it.\n 5.Android:It is famous operating system of mobile.\n 6.Books: You can read many books on google.\n 7.`Youtube`:social networking, where videos are available.\n 8.Google Translator:In google translator 100 language are available. you can translate one languge to another with the help \n of google translator.\n 9.Blogger: You can make your blog.\n\n\n \n \n\n[https://www.digitalunite.com/technology-guides/using-internet/searching-browsing/what-google\n](https://www.digitalunite.com/technology-guides/using-internet/searching-browsing/what-google)\n\n\nAap yeh videos dekhein:\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Quk88piD8PM"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "6kFyvovDNl8"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.\n\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nIss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n\n\n\n1. What is search engine?\n\n2. How many offices does google have in India?\n\n3. Explain how google map is working?\n\n4. How google store large amount of data?\n\n5. Explain what happen when user enter any queries means how google gives `output`?\n\n6. How google correct your spelling mistake, when you enter wrong word?\n\n7. Those data which is coming to us where it is stored?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4549",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "tcs",
+                "slug": "samvaad-tech-201__tcs_md",
+                "sequence_num": 3100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/tcs.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "TCS TATA CONSULTANCY SERVICS LIMITED.\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "tmywxKYuzIc"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vTY89okfyGE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "jv2b8Mom4hg"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n\n\n\nAur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\n\n\n\nJb apka discussion ho jaye toh inn questions kai answer bhi discuss kare:-\n\n\n\nQuestion:\n\nAnswer these question:\n\n1.  What is tcs?\n\n2.  Name some top IT companies in INDIA?\n\n3.  Who is the founder of tcs?\n\n4.  Explain about the work of IT companies.\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4559",
+                "parent_exercise_id": null,
+                "course_id": "119",
+                "name": "ToDo",
+                "slug": "samvaad-tech-201__todo_md",
+                "sequence_num": 3200,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-tech-201/todo.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "- login\n\n- `upload`\n\n- download\n\n- ~~google~~\n\n- ~~facebook (mark zuckerberg)~~\n\n- memory\n\n- hard disk\n\n- ~~mbps / kbps internet speed~~\n\n- internet\n\n- ~~i5 / i7~~\n\n- ~~machine learning~~\n\n- ~~tcs~~\n\n- ~~programming kya hota hai~~\n\n- router\n\n- ~~android kya hai~~\n\n- ~~`applications` kya hoti hia~~\n\n- websites kya hoti hai\n\n- ~~html~~\n\n- css\n\n- flipkart\n\n- ~~startup~~\n\n- ~~algorithm~~\n\n- ~~flowchart~~\n\n- ~~cloud~~\n\n- data kya hota hai\n\n- ~~virus kya hota hai~~\n\n- ~~anti virus~~\n\n- ~~ms office~~\n\n- ~~ppt~~\n\n- google doc / google drive / excel sheet\n\n- apple\n\n- browser\n\n- github\n\n- ~~`errors` (404 `error`)~~\n\n- memory\n\n- `file` transfers in window\n\n- authenticy of search\n\n- wifi, network\n\n- ~~php/`python`~~\n\n- ~~other social media - like meet, skype, twitter~~\n\n- data analytics\n\n- ~~ethernet~~\n\n- embedding\n\n- ~~web traffic~~\n\n- ~~seo~~\n\n- kernel\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}
